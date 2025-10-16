@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MJ-Ahmad Metadata Schema",
+  "description": "Validation schema for all .metadata.json files in the documentation hub.",
+  "type": "object",
+  "required": [
+    "title",
+    "module",
+    "type",
+    "steward",
+    "date_created",
+    "version",
+    "audit_hash",
+    "review_status",
+    "traceability_score"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Title of the associated document"
+    },
+    "module": {
+      "type": "string",
+      "description": "Module or folder the document belongs to"
+    },
+    "type": {
+      "type": "string",
+      "description": "Type of artifact (e.g., README, ruleset, ledger)"
+    },
+    "steward": {
+      "type": "string",
+      "description": "Name or ID of the steward responsible"
+    },
+    "date_created": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO-formatted creation date"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version number"
+    },
+    "audit_hash": {
+      "type": "string",
+      "pattern": "^[A-Fa-f0-9]{64}$",
+      "description": "SHA256 hash of the document"
+    },
+    "linked_files": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of associated files"
+    },
+    "review_status": {
+      "type": "string",
+      "enum": ["pending", "approved", "rejected"],
+      "description": "Review state of the artifact"
+    },
+    "traceability_score": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Score indicating inheritance readiness"
+    }
+  }
+}
+

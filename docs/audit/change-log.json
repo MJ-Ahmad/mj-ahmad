@@ -1,0 +1,326 @@
+[
+  {
+    "file_path": "\\audit\\change-log.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T13:49:02Z",
+    "audit_hash": "37AE987ED9D1F284597001332DBA70EA3D29C3F4026EBD8DC057727485E9BCA4",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\audit-policy.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:49:19Z",
+    "audit_hash": "FD7789E19342290A4C64F405CA2B9073DA6FAE124A2947DCCAE5ECFE7A72CA34",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\audit-policy.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T06:53:36Z",
+    "audit_hash": "16A35A467EA231A7B38EA7D66AD3253EECFE01E97C1DA914F8BE585191C9CE2C",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\community-charter.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:52:13Z",
+    "audit_hash": "1584C2FF52982727C042FA892E20018A4B39FBF2FD4073C6824DD1E7AED63104",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\community-charter.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T06:53:36Z",
+    "audit_hash": "EE166B3ABF1A0D6B94B084DED0385D070634F90F0AB63F40D9FDD75A87C55764",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\role-activation.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T13:43:01Z",
+    "audit_hash": "7CBC9C75B1BE8C5C859104E65F699EC6A3134115EB84EB238C4578BD98971C0E",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\role-activation.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T13:43:57Z",
+    "audit_hash": "3DC83FB2653825882E5AB9BAD921F86DC4FDAD982EB94DE0710A3044BD4C4130",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\visionary-roles.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:46:36Z",
+    "audit_hash": "5D6A55924037B4B79DD50F5664C6CD75BD0FB2FAFE5F14EB5B79FC1545568018",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance\\visionary-roles.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T06:53:36Z",
+    "audit_hash": "FEF43029E283C815B8E6832BFC4F46275C4C7E8487CAA4B5FF13903504F08784",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\merit-engine\\README.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T07:01:28Z",
+    "audit_hash": "76F2EBC4E7E5DBAE4F6C279FD9ACA690EA24F3EA93B023BBE125019837A0D5CC",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\merit-engine\\README.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T07:13:01Z",
+    "audit_hash": "2D508808EB49AFD3FC9A583DE277497C1C19CBAB7BB0DF5313829501CB05A575",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\merit-engine\\scorecard.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T07:06:13Z",
+    "audit_hash": "54506B3A80EF5C6789E85F46C3742B6EFD9DEB054A1CCB304B1CA5020EDC9A08",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\merit-engine\\scorecard.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T07:13:01Z",
+    "audit_hash": "43741D61FB501EED72EABD8CADF637D0A634B43075BC70F1F36ED9F6AD928895",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\nxn-genesis\\README.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T12:17:17Z",
+    "audit_hash": "8F5FC1E1EBD40851E6D9028798576014A3A6E9D9D184701EEB134F51FA341A68",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\nxn-genesis\\README.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T13:19:50Z",
+    "audit_hash": "56DFEC5E310AB99A443B87E41D94836D6E6FCD431812306E15A45C604D0C1322",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\nxn-genesis\\rules.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T13:21:10Z",
+    "audit_hash": "C2535CFDCDC32F46C53DA7A168BAEBF52301426CD63D8532330FF4FA80E14BE7",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\nxn-genesis\\rules.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T13:17:50Z",
+    "audit_hash": "4234EA25FF53FBE6959B98C5BAE52261F4FC6EA03ABC22428CAC2F05469F4C5E",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\distribution.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:26:16Z",
+    "audit_hash": "EFC12B51E77DFB148FC86D0CD1AB29EE6F322CA1FDCD30BADA548CE06E163037",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\distribution.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T06:38:52Z",
+    "audit_hash": "AB24A5F15FCC135F13C79B40F04436E4C1A35CC5F98961A74D6FECA73039B384",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\ethics.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:32:46Z",
+    "audit_hash": "5BDCBB968E3C7A0244EBBCACCC52908AE428FDA6801452716214FADBE44D8DEF",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\ethics.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T06:38:52Z",
+    "audit_hash": "2990FD1C5D9C0CB5227DCB802472D4AF092F4DE693BC4C32853903D5D9B2F02D",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\README.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:36:14Z",
+    "audit_hash": "1283D2ACF708D35DD4A02B414366AD408A93062DBE0CAF66ADE95ACCEFCF39F3",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\README.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T06:38:52Z",
+    "audit_hash": "2D508808EB49AFD3FC9A583DE277497C1C19CBAB7BB0DF5313829501CB05A575",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\research.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T06:29:20Z",
+    "audit_hash": "ECAB2AB7BC0D2B4A354CCC7D6E62572AD461F83115EC2378B0098501F5D03F4F",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\research.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T05:44:48Z",
+    "audit_hash": "0D8A84E54409A6228BC1189F964CFFC3ED8DE7703E94881A8F93D29DA7080229",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\constitution.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T03:42:55Z",
+    "audit_hash": "0FD0A267C476C30DB6EEBC12C518876FD0DD3A7BA944FE5CA7F35A28AD070CA9",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\constitution.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T03:56:36Z",
+    "audit_hash": "D6A9BB251F4A4ED561B86D49B2DBFB0D8BBB8D4D3136893E90EA685E76A8F952",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\contributors.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T07:12:11Z",
+    "audit_hash": "DD9AA76BD22C43D873E77142B7200162098BF4712BAAEC32C43409341BCE76B7",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\contributors.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T07:13:01Z",
+    "audit_hash": "B04FD3CFC7AF00401E65E0160D795706BA2410C0DF68F8499B4F490A08A0C253",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\glossary.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T05:01:04Z",
+    "audit_hash": "DCD41410DE6C1152805D4830CCABF61A4711DC2F9FD7DFD8EC374B53ED61313A",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\index.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T03:25:16Z",
+    "audit_hash": "4911AD5E0E33EB2C7D32673B0F00F94BD0AD1EED058662BB8B645A022B54A9C3",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\index.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T05:44:48Z",
+    "audit_hash": "42F34D4FF45450F7A6BB45F841EE014FA29B2C59A1BB7AA017CC3472BC1C57E8",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\roadmap.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T04:59:12Z",
+    "audit_hash": "C3B7CFB278809BB954D423AE4E3A8AC02734EB846957884E9A47D8B1DCE9D5AC",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\roadmap.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T05:44:48Z",
+    "audit_hash": "8E8B137D40C5CD3D0239913CB8F5FCE651072ED15821F04DAE782CD4493F6ED2",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\whitepaper.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-16T03:43:51Z",
+    "audit_hash": "878554DADAE42C2D681518CF942049FA93A59D8BC3808947E8EE4D718FC5DF33",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\whitepaper.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-16T05:44:48Z",
+    "audit_hash": "67256561B45C2B6AD6A7B566A210639E9FD86D913F2C16DC7E9E68A4456767A4",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  }
+]

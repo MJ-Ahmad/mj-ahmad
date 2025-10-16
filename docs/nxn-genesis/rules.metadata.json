@@ -1,0 +1,16 @@
+{
+  "title": "Logic Rules — Derivation Principles",
+  "module": "nxn-genesis",
+  "type": "constitutional-ruleset",
+  "steward": "MJ Ahmad",
+  "date_created": "2025-10-16",
+  "version": "1.0.0",
+  "audit_hash": "pending",
+  "linked_files": [
+    "README.md",
+    "rules.md"
+  ],
+  "review_status": "approved",
+  "traceability_score": 1.0
+}
+
