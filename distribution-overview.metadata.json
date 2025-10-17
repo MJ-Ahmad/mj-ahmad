@@ -1,13 +1,13 @@
 {
+  "version": "1.0",
+  "last_updated": "2025-10-17",
   "tags": [
     "documentation",
     "constitutional"
   ],
-  "license": "Ethical Inheritance License",
-  "last_updated": "2025-10-17",
-  "date_created": "2025-10-17",
-  "author": "MJ Ahmad",
-  "title": "README",
+  "title": "distribution-overview",
   "status": "draft",
-  "version": "1.0"
+  "license": "Ethical Inheritance License",
+  "date_created": "2025-10-17",
+  "author": "MJ Ahmad"
 }
