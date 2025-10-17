@@ -1,0 +1,25 @@
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MJ-Ahmad Metadata Schema",
+  "description": "Validation schema for all .metadata.json files in the documentation hub.",
+  "module": "Graphical",
+  "version": "1.0.0",
+  "types": ["Line", "Bar", "Pie", "Scatter"],
+  "defaultType": "Line",
+  "constraints": {
+    "maxPoints": 100,
+    "minValue": 0,
+    "maxValue": 9999
+  },
+  "fallback": {
+    "onMissingFunction": "Write-Warning",
+    "onInvalidType": "Use defaultType"
+  },
+  "ethics": {
+    "childReadable": true,
+    "noExternalDependencies": true,
+    "terminalSafe": true
+  }
+}
+

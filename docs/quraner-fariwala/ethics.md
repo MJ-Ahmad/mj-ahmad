@@ -46,9 +46,9 @@ Sources:
 
 ## 🧾 Stewardship Requirements
 
-- All contributors must agree to the [Community Charter](../community-charter.md)
+- All contributors must agree to the [Community Charter](../governance/community-charter.md)
 - All annotations must pass through the [Visionary Roles](../governance/visionary-roles.md)
-- All changes must be logged via [Audit Policy](../audit-policy.md)
+- All changes must be logged via [Audit Policy](../governance/audit-policy.md)
 
 ---
 

@@ -27,9 +27,9 @@ Quraner Fariwala is a constitutional module within the MJ-Ahmad Documentation Hu
 Only those who agree to:
 
 - [MJ-Ahmad Constitution](../constitution.md)  
-- [Community Charter](../community-charter.md)  
+- [Community Charter](../governance/community-charter.md)  
 - [Visionary Roles](../governance/visionary-roles.md)  
-- [Audit Policy](../audit-policy.md)
+- [Audit Policy](../governance/audit-policy.md)
 
 All contributions must be:
 

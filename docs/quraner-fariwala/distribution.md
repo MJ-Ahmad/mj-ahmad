@@ -63,8 +63,8 @@ Each copy must include:
 All distributed formats must be reviewed by:
 
 - [Visionary Roles](../governance/visionary-roles.md)  
-- [Audit Policy](../audit-policy.md)  
-- [Community Charter](../community-charter.md)
+- [Audit Policy](../governance/audit-policy.md)  
+- [Community Charter](../governance/community-charter.md)
 
 ---
 
