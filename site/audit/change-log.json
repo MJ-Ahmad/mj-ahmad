@@ -2,8 +2,8 @@
   {
     "file_path": "\\audit\\change-log.json",
     "file_type": ".json",
-    "date_modified": "2025-10-17T03:15:48Z",
-    "audit_hash": "48E852CC92B8CB6E1AB3DB85E44E313ED3F45081A7B2DF73655114257A03769A",
+    "date_modified": "2025-10-17T09:08:53Z",
+    "audit_hash": "F5D4EFF8B7B4231F4B610A974F5372A96156ED473D26BC5CBD9106CCBE4C3BB8",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -155,8 +155,8 @@
   {
     "file_path": "\\governance\\ratified-actions.md",
     "file_type": ".md",
-    "date_modified": "2025-10-17T03:03:29Z",
-    "audit_hash": "2D87375360CD03104EB86FF3328035910F78B6B3A192E04E915C348C61F0015A",
+    "date_modified": "2025-10-17T10:48:30Z",
+    "audit_hash": "83B54DE27CE8707EC3390BE9598654E271295CA2212DCF31C394BE8811C3F888",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -274,24 +274,6 @@
     "file_type": ".json",
     "date_modified": "2025-10-16T07:13:01Z",
     "audit_hash": "43741D61FB501EED72EABD8CADF637D0A634B43075BC70F1F36ED9F6AD928895",
-    "steward": "MJ Ahmad",
-    "review_status": "pending",
-    "traceability": 1.0
-  },
-  {
-    "file_path": "\\nexara-treasury\\README.md",
-    "file_type": ".md",
-    "date_modified": "2025-10-17T01:57:52Z",
-    "audit_hash": "FC09F94510DFE80248D6C2E4ED1DC268B3D57F7A13EF8AA9F30964C38DA52878",
-    "steward": "MJ Ahmad",
-    "review_status": "pending",
-    "traceability": 1.0
-  },
-  {
-    "file_path": "\\nexara-treasury\\README.metadata.json",
-    "file_type": ".json",
-    "date_modified": "2025-10-17T02:19:20Z",
-    "audit_hash": "2DAF7BA109334322AAC710EE4411943C392AF465EEB1A369B01751338060D1AA",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -549,6 +531,24 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\behavior-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:02:47Z",
+    "audit_hash": "E47C0667AF217087E433D43ED740C6E9C7EDDD4EE0464E266819436E8F22C85B",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\behavior-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "59A0749312B23EA05A196E39737BFC33A0CC38A67A19FD747A23CBF1CEFCADA9",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\constitution.md",
     "file_type": ".md",
     "date_modified": "2025-10-16T03:42:55Z",
@@ -603,6 +603,24 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\core-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:05:50Z",
+    "audit_hash": "FBF56E29DF55490F081A8124A495B83106DEF384DC8F31BA4E9D8701BE335C23",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\core-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "94BB22D4EBA9468530E6999E435869777B6A6810A7B0D7E0B7A59FDD2889B44E",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\deployment-guide.md",
     "file_type": ".md",
     "date_modified": "2025-10-17T01:57:52Z",
@@ -621,6 +639,24 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\deployment-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T08:58:11Z",
+    "audit_hash": "22FF74D62E2824E77E85531085E76963AFA253346678082FAAB0E916928B11EF",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\deployment-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "315CC9AE0F123D55716F70C40598A41D502FD2F50F9007D308E9D048EDDA93A6",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\deployment-record.md",
     "file_type": ".md",
     "date_modified": "2025-10-17T02:43:10Z",
@@ -634,6 +670,24 @@
     "file_type": ".json",
     "date_modified": "2025-10-17T03:15:32Z",
     "audit_hash": "C1F47F5E0706448C1750685DE860FF2BD2D62D22379D95DDA7865F00001A0CF6",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\distribution-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T08:59:13Z",
+    "audit_hash": "468A74330A7D08B830F1849C685C15E47B4F54FFD59560EBE2A769906E9A1CBF",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\distribution-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "257618E7B23088559F16B1DBF23A7B73D755EFA45811E83EA069029873134FA4",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -693,10 +747,28 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\governance-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:03:51Z",
+    "audit_hash": "8C34779DC2D146B20F8318018B4707E6A3A322EC87D2B6D3425B9FA8144787F0",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\governance-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "81716E131C14CEC7EA691D23FBBFAEE476065A4261AA2C9F53D8D64BF48BA3EC",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\index.md",
     "file_type": ".md",
-    "date_modified": "2025-10-17T03:14:43Z",
-    "audit_hash": "072CF5AA19013D03083F4B51A88897651726A632683DC53A8B4FD699DDAFC236",
+    "date_modified": "2025-10-17T09:07:05Z",
+    "audit_hash": "51365BE78E5E651684109CF885B5E36371A90CA3C6DC47F8554B70FF5127F8D6",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -711,10 +783,82 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\logic-ethics-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:04:44Z",
+    "audit_hash": "1E2980A45616621AC5CB451866C43E9A22459A761B476EE6012CC77A176854CD",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\logic-ethics-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "4CAAD14BD6E29EDE8E697F31882239C48DA53BB2D5152274D75C7B393DF46121",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\merit-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:00:03Z",
+    "audit_hash": "C0108AC8ADCEECB89605665D8D2D2091FFD9B23E192B5848C07D66B54B842AD7",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\merit-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "DEF2344FF969DEAF5646ECB60338F574BA39AC81B7ED463184BEDCBF6C653E48",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\personal-fund-declaration.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T10:46:02Z",
+    "audit_hash": "698AE94DC8840A00F46573DED83ADDB8784FDEBFF4D3674AE4C356DF71162546",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\personal-fund-declaration.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T10:51:09Z",
+    "audit_hash": "A2D6A530CD822E2C94E5E4AD01040EFF5FBFD2FDD5F3D127AC6E1D9A9C60BDBF",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T08:56:15Z",
+    "audit_hash": "E1E58220EF20CE44AC18B35F5BDF81F43184258DDDF8D94FE253D85D8CC28031",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "BB61E9D96B112040BDF4657A8073C79CA412095B8ADA7BDEB623AB762E285D79",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\roadmap.md",
     "file_type": ".md",
-    "date_modified": "2025-10-16T04:59:12Z",
-    "audit_hash": "C3B7CFB278809BB954D423AE4E3A8AC02734EB846957884E9A47D8B1DCE9D5AC",
+    "date_modified": "2025-10-17T10:49:40Z",
+    "audit_hash": "E3CD38DFB9F5958D1FCF4C9CDB9A2E64371EF5D1401429B5F6357637D8276B43",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -724,6 +868,78 @@
     "file_type": ".json",
     "date_modified": "2025-10-16T05:44:48Z",
     "audit_hash": "8E8B137D40C5CD3D0239913CB8F5FCE651072ED15821F04DAE782CD4493F6ED2",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\security-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:01:55Z",
+    "audit_hash": "6223C5E27987554F7DEC618137787B36859D23817B9C34532E36E6BAC407848A",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\security-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "84F47860E6C2B5ACE3F34EB2B21772020299D09FF8764B1567765C4D562DEFCE",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\support-mj.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T10:46:45Z",
+    "audit_hash": "5B60397B36586178A1F36A1C2F4B8F17011E71FC59FA77C8A5BF09DFB6C93429",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\support-mj.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T10:51:09Z",
+    "audit_hash": "D227B5D30CF661010901BC38F3009814F924D1941AA015E6882AE38816A325BF",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\support-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T08:55:07Z",
+    "audit_hash": "E9E900A7119D41447835E1305864110D7BF70DC8E8DA6654E29496D62CADC43E",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\support-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "C32DAF72F36ACCA52E25B34C01CE8607081CE880C8CAB384E4E773C40FB59A26",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\tokenomics-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T08:57:17Z",
+    "audit_hash": "07D8F13F3EE553334216606C7DC57F83023B7BF4469D4CB58499B0FEA0F73333",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\tokenomics-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "6EEF6AA648AB5DA868789C4C14BC134EB50EFB1FE61647E368579AE200835D4B",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -742,6 +958,24 @@
     "file_type": ".json",
     "date_modified": "2025-10-17T02:19:20Z",
     "audit_hash": "63E8BFF8CBE8E4C8CC3DAB7C85468E73D825E5AAD98E93264E16A09C3895D9DD",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\treasury-overview.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T09:01:02Z",
+    "audit_hash": "F7D33E6711D3549FA02D35C2A7ABE7B78808A39781391C519810338A9D77F82A",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\treasury-overview.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T09:08:24Z",
+    "audit_hash": "A4942742B385D0D111C6F352BC5C5710C8180F60C3282AFDFF42AAC9C39E88BA",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0

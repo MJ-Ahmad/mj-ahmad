@@ -86,6 +86,9 @@ nav:
       - Overview: support-overview.md
       - FAQ: faq.md
       - Vision: vision.md
+  - Stewardship Continuity:
+      - Declaration: personal-fund-declaration.md
+      - Public Page: support-mj.md
 markdown_extensions:
   - toc:
       permalink: true

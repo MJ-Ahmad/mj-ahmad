@@ -2,8 +2,8 @@
   {
     "file_path": "\\audit\\change-log.json",
     "file_type": ".json",
-    "date_modified": "2025-10-17T03:57:59Z",
-    "audit_hash": "D021A2E442E99D19AFBC5A55A0F7EC3EDDC139E1DEC79EB1B154DDF2652A69A8",
+    "date_modified": "2025-10-17T09:08:53Z",
+    "audit_hash": "F5D4EFF8B7B4231F4B610A974F5372A96156ED473D26BC5CBD9106CCBE4C3BB8",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -155,8 +155,8 @@
   {
     "file_path": "\\governance\\ratified-actions.md",
     "file_type": ".md",
-    "date_modified": "2025-10-17T03:03:29Z",
-    "audit_hash": "2D87375360CD03104EB86FF3328035910F78B6B3A192E04E915C348C61F0015A",
+    "date_modified": "2025-10-17T10:48:30Z",
+    "audit_hash": "83B54DE27CE8707EC3390BE9598654E271295CA2212DCF31C394BE8811C3F888",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -274,24 +274,6 @@
     "file_type": ".json",
     "date_modified": "2025-10-16T07:13:01Z",
     "audit_hash": "43741D61FB501EED72EABD8CADF637D0A634B43075BC70F1F36ED9F6AD928895",
-    "steward": "MJ Ahmad",
-    "review_status": "pending",
-    "traceability": 1.0
-  },
-  {
-    "file_path": "\\nexara-treasury\\README.md",
-    "file_type": ".md",
-    "date_modified": "2025-10-17T01:57:52Z",
-    "audit_hash": "FC09F94510DFE80248D6C2E4ED1DC268B3D57F7A13EF8AA9F30964C38DA52878",
-    "steward": "MJ Ahmad",
-    "review_status": "pending",
-    "traceability": 1.0
-  },
-  {
-    "file_path": "\\nexara-treasury\\README.metadata.json",
-    "file_type": ".json",
-    "date_modified": "2025-10-17T02:19:20Z",
-    "audit_hash": "2DAF7BA109334322AAC710EE4411943C392AF465EEB1A369B01751338060D1AA",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -837,6 +819,24 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\personal-fund-declaration.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T10:46:02Z",
+    "audit_hash": "698AE94DC8840A00F46573DED83ADDB8784FDEBFF4D3674AE4C356DF71162546",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\personal-fund-declaration.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T10:51:09Z",
+    "audit_hash": "A2D6A530CD822E2C94E5E4AD01040EFF5FBFD2FDD5F3D127AC6E1D9A9C60BDBF",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\quraner-fariwala-overview.md",
     "file_type": ".md",
     "date_modified": "2025-10-17T08:56:15Z",
@@ -857,8 +857,8 @@
   {
     "file_path": "\\roadmap.md",
     "file_type": ".md",
-    "date_modified": "2025-10-16T04:59:12Z",
-    "audit_hash": "C3B7CFB278809BB954D423AE4E3A8AC02734EB846957884E9A47D8B1DCE9D5AC",
+    "date_modified": "2025-10-17T10:49:40Z",
+    "audit_hash": "E3CD38DFB9F5958D1FCF4C9CDB9A2E64371EF5D1401429B5F6357637D8276B43",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -886,6 +886,24 @@
     "file_type": ".json",
     "date_modified": "2025-10-17T09:08:24Z",
     "audit_hash": "84F47860E6C2B5ACE3F34EB2B21772020299D09FF8764B1567765C4D562DEFCE",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\support-mj.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-17T10:46:45Z",
+    "audit_hash": "5B60397B36586178A1F36A1C2F4B8F17011E71FC59FA77C8A5BF09DFB6C93429",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\support-mj.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-17T10:51:09Z",
+    "audit_hash": "D227B5D30CF661010901BC38F3009814F924D1941AA015E6882AE38816A325BF",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0

@@ -11,7 +11,9 @@ _This index is not a directory. It is a declaration — that every module, every
 ---
 
 ## 🏛️ Core Modules  
+
 _The foundational pillars of the system — purpose, principles, and public covenant._
+
 🔍 [Read full overview](core-overview.md)
 
 - [`constitution.md`](constitution.md) — Foundational principles and ethical license  
@@ -24,7 +26,9 @@ _The foundational pillars of the system — purpose, principles, and public cove
 ---
 
 ## 🧠 Logic & Ethics  
+
 _The engine of derivation and the boundaries of ethical reasoning._
+
 🔍 [Read full overview](logic-ethics-overview.md)
 
 - [`nxn-genesis/README.md`](nxn-genesis/README.md) — Logic engine overview  
@@ -36,7 +40,9 @@ _The engine of derivation and the boundaries of ethical reasoning._
 ---
 
 ## 🧾 Governance  
+
 _Protocols for consent, ratification, and steward legitimacy._
+
 🔍 [Read full overview](governance-overview.md)
 
 - [`governance/community-charter.md`](governance/community-charter.md) — Shared values and entry terms  
@@ -54,7 +60,9 @@ _Protocols for consent, ratification, and steward legitimacy._
 ---
 
 ## 🧠 Behavioral Governance  
+
 _Protocols for tone, language, and ethical voice across all modules._
+
 🔍 [Read full overview](behavior-overview.md)
 
 - [`behavior/persona-consistency.md`](behavior/persona-consistency.md) — Defines tone, language, and constitutional clarity
@@ -62,7 +70,9 @@ _Protocols for tone, language, and ethical voice across all modules._
 ---
 
 ## 🛡️ Security Protocols  
+
 _Stewarded responses to threat, breach, and systemic risk._
+
 🔍 [Read full overview](security-overview.md)
 
 - [`security/threat-model.md`](security/threat-model.md) — Threat boundaries and risk logic  
@@ -72,7 +82,9 @@ _Stewarded responses to threat, breach, and systemic risk._
 ---
 
 ## 💰 Treasury System  
+
 _Traceable stewardship of value-bearing modules and ethical disbursement._
+
 🔍 [Read full overview](treasury-overview.md)
 
 - [`treasury/README.md`](treasury/README.md) — Ethical value stewardship  
@@ -82,7 +94,9 @@ _Traceable stewardship of value-bearing modules and ethical disbursement._
 ---
 
 ## 🧮 Merit System  
+
 _Contribution scoring and ethics-based recognition._
+
 🔍 [Read full overview](merit-overview.md)
 
 - [`merit-engine/README.md`](merit-engine/README.md) — Overview of merit logic  
@@ -91,7 +105,9 @@ _Contribution scoring and ethics-based recognition._
 ---
 
 ## 📦 Distribution  
+
 _Protocols for safe, traceable dissemination of system modules._
+
 🔍 [Read full overview](distribution-overview.md)
 
 - [`distribution-engine/README.md`](distribution-engine/README.md) — Safe, traceable dissemination protocol
@@ -99,7 +115,9 @@ _Protocols for safe, traceable dissemination of system modules._
 ---
 
 ## 🚀 Deployment Records  
+
 _Activation history and reproducible setup instructions._
+
 🔍 [Read full overview](deployment-overview.md)
 
 - [`deployment-guide.md`](deployment-guide.md) — Setup and activation instructions  
@@ -108,7 +126,9 @@ _Activation history and reproducible setup instructions._
 ---
 
 ## 🪙 Tokenomics  
+
 _Value logic and circulation boundaries for ethical exchange._
+
 🔍 [Read full overview](tokenomics-overview.md)
 
 - [`tokenomics.md`](tokenomics.md) — Value logic and circulation boundaries
@@ -116,7 +136,9 @@ _Value logic and circulation boundaries for ethical exchange._
 ---
 
 ## 📚 Quraner Fariwala  
+
 _Research, ethics, and protection against distortion in Quranic documentation._
+
 🔍 [Read full overview](quraner-fariwala-overview.md)
 
 - [`quraner-fariwala/README.md`](quraner-fariwala/README.md) — Module overview  
@@ -127,11 +149,27 @@ _Research, ethics, and protection against distortion in Quranic documentation._
 ---
 
 ## 🧾 Support & Clarity  
+
 _Answers, aspirations, and long-term sanctuary design._
+
 🔍 [Read full overview](support-overview.md)
 
 - [`faq.md`](faq.md) — Common questions and glossary-linked answers  
 - [`vision.md`](vision.md) — Long-term goals and sanctuary design
+
+---
+
+## 💸 Stewardship Continuity
+
+🔍 [Read full declaration](personal-fund-declaration.md)  
+🌐 [Public support page](support-mj.md)
+
+This section documents MJ Ahmad’s personal continuity fund — a traceable, ethics-ratified system for sustaining daily stewardship work. It includes:
+
+- Daily cost breakdown  
+- Funding channels  
+- Audit-linked ledger  
+- Public transparency protocols
 
 ---
 
