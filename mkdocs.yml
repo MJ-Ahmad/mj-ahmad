@@ -20,43 +20,72 @@ theme:
 
 nav:
   - Home: index.md
-  - Constitution: constitution.md
-  - Whitepaper: whitepaper.md
-  - Roadmap: roadmap.md
-  - Glossary: glossary.md
+  - Core Modules:
+      - Overview: core-overview.md
+      - Constitution: constitution.md
+      - Whitepaper: whitepaper.md
+      - Glossary: glossary.md
+      - Roadmap: roadmap.md
+      - Contributors: contributors.md
+      - Contributing: CONTRIBUTING.md
+
+  - Logic & Ethics:
+      - Overview: logic-ethics-overview.md
+      - NXN Genesis: nxn-genesis/README.md
+      - Rules: nxn-genesis/rules.md
+      - NXN Ethics: nxn-ethics/README.md
+      - Violation: nxn-ethics/violations.md
+      - Manifesto: ethics.md
   - Governance:
+      - Overview: governance-overview.md
+      - Community Charter: governance/community-charter.md
+      - Role Activation: governance/role-activation.md
       - Visionary Roles: governance/visionary-roles.md
-      - Persona Consistency: behavior/persona-consistency.md
+      - Audit Log Policy: governance/audit-policy.md
+      - Review Protocol: governance/review-protocol.md
       - Proposal Template: governance/proposal-template.md
       - Decision Tree: governance/decision-tree.md
       - Voting Policy: governance/voting-policy.md
       - Emergency Protocol: governance/emergency-protocol.md
       - Ratification Process: governance/ratification-process.md
       - Ratified Actions: governance/ratified-actions.md
-      - Community Charter: governance/community-charter.md
-      - Audit Log Policy: governance/audit-policy.md
-  - Treasury:
-      - Treasury Policy: nexara-treasury/README.md
-      - Purpose Registry: treasury/purpose-registry.md
-      - Disbursement Log: treasury/disbursement-log.md
-  - Merit System: merit-engine/README.md
-  - Deployment:
-      - Deployment Guide: deployment-guide.md
-      - Deployment Record: deployment-record.md
-  - Tokenomics: tokenomics.md
+  - Behavioral Governance:
+      - Overview: behavior-overview.md
+      - Persona Consistency: behavior/persona-consistency.md
   - Security:
+      - Overview: security-overview.md
       - Threat Model: security/threat-model.md
       - Incident Response: security/incident-response.md
       - Guardian Handbook: security/guardian-handbook.md
+  - Treasury:
+      - Overview: treasury-overview.md
+      - Treasury: treasury/README.md
+      - Purpose Registry: treasury/purpose-registry.md
+      - Disbursement Log: treasury/disbursement-log.md
+  - Merit:
+      - Overview: merit-overview.md
+      - Merit System: merit-engine/README.md
+      - Scorecard: merit-engine/scorecard.md
+  - Distribution:
+      - Overview: distribution-overview.md
+      - Distribution Engine: distribution-engine/README.md
+  - Deployment:
+      - Overview: deployment-overview.md
+      - Deployment Guide: deployment-guide.md
+      - Deployment Record: deployment-record.md
+  - Tokenomics:
+      - Overview: tokenomics-overview.md
+      - Tokenomics: tokenomics.md
   - Quraner Fariwala:
+      - Overview: quraner-fariwala-overview.md
+      - Quraner Fariwala: quraner-fariwala/README.md
       - Research Overview: quraner-fariwala/research.md
-      - Distribution Ethics: quraner-fariwala/distribution.md
       - Interpretive Boundaries: quraner-fariwala/ethics.md
-  - Ethics Manifesto: ethics.md
-  - FAQ: faq.md
-  - Contributing: CONTRIBUTING.md
-  - Vision: vision.md
-
+      - Distribution Ethics: quraner-fariwala/distribution.md
+  - Support & Clarity:
+      - Overview: support-overview.md
+      - FAQ: faq.md
+      - Vision: vision.md
 markdown_extensions:
   - toc:
       permalink: true
