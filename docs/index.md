@@ -2,7 +2,7 @@
 
 **Curated by**: MJ Ahmad — Steward of Ethical Inheritance  
 **Document Type**: System Index  
-**Last Updated**: October 16, 2025
+**Last Updated**: October 17, 2025
 
 ---
 
@@ -35,6 +35,12 @@
 
 ---
 
+## 🧠 Behavioral Governance
+
+- [`behavior/persona-consistency.md`](behavior/persona-consistency.md) — Defines tone, language, and ethical voice across all modules
+
+---
+
 ## 🧮 Merit System
 
 - [`merit-engine/README.md`](merit-engine/README.md) — Overview of merit logic  
@@ -59,4 +65,3 @@
 
 > _“Let no file be lost, no steward forgotten, and no learner left behind.”_  
 > — MJ Ahmad
-

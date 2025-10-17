@@ -1,73 +1,54 @@
-# Community Charter — Behavioral Constitution
+# Community Charter — Stewardship Covenant
 
 **Curated by**: MJ Ahmad — Steward of Ethical Inheritance  
-**Governance Type**: Participation Ethics  
-**Last Updated**: October 16, 2025
+**Document Type**: Constitutional Agreement  
+**Last Updated**: October 17, 2025
 
 ---
 
 ## 🧭 Purpose
 
-This charter defines the behavioral expectations, participation boundaries, and ethical commitments required of all contributors to the MJ-Ahmad Documentation Hub. It is not a code of conduct — it is a constitutional agreement.
+This charter defines the shared values, ethical boundaries, and stewardship expectations for all contributors to the MJ-Ahmad Documentation Hub. It is not a rulebook. It is a covenant.
 
 ---
 
-## 🧠 Core Principles
+## 🧘 Shared Values
 
-- **Radical Egalitarianism**  
-  Every contributor is equal in dignity, regardless of background, skill, or identity.
-
-- **Clarity Over Cleverness**  
-  Contributions must prioritize clarity, reproducibility, and inheritance — not complexity or prestige.
-
-- **No Hierarchy**  
-  Roles are responsibilities, not ranks. No steward may claim authority over another.
-
-- **No Exclusion**  
-  No learner, contributor, or reader may be excluded based on language, culture, or ability.
-
-- **No Ego**  
-  All contributions must serve the system — not personal recognition or control.
+- **Clarity** — Every file must be understandable to future learners  
+- **Dignity** — No steward may be ranked, excluded, or erased  
+- **Traceability** — Every change must be audit-bound and metadata-verified  
+- **Ethics** — All logic must pass `nxn-ethics` validation  
+- **Legacy** — Every contribution must serve future generations
 
 ---
 
-## 🛡️ Behavioral Boundaries
+## 🛡️ Steward Expectations
 
-| Behavior            | Status     | Notes                                           |
-|---------------------|------------|--------------------------------------------------|
-| Anonymous edits      | ❌ Blocked | All changes must be traceable and reviewed       |
-| Biased language      | ❌ Blocked | Must use culturally safe and inclusive terms     |
-| Unreviewed uploads   | ❌ Blocked | All files must pass audit and metadata checks    |
-| Stewardship violations| ❌ Logged | Documented in `violations.md`                    |
-| Transparent feedback | ✅ Required| All reviews must be public and documented        |
-| Child-safe writing   | ✅ Required| Must be readable by learners of all levels       |
-
-Sources: 
+| Expectation            | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| Activate role          | Submit `role-activation.md` entry with purpose and scope                    |
+| Review artifacts       | Participate in `review-protocol.md` with clarity and consent                |
+| Protect learners       | Ensure all content is glossary-linked or child-readable                     |
+| Preserve lineage       | Maintain audit hashes and metadata for all edits                            |
+| Reject ego             | Avoid prestige-based ranking, titles, or exclusionary language              |
 
 ---
 
-## 🔐 Contributor Agreement
+## 🔐 Licensing
 
-To contribute, one must:
-
-1. Read and agree to this charter  
-2. Activate a role via `role-activation.md`  
-3. Submit contributions with metadata and audit hash  
-4. Accept review and possible rejection without ego
+All participation is governed by the **Ethical Inheritance License**. No steward may use this system for distortion, exclusion, or control.
 
 ---
 
-## 🧾 Charter Metadata
+## 🧾 Governance Links
 
-- `charter_version`: 1.0  
-- `date_activated`: ISO format  
-- `signed_by`: steward name or ID  
-- `modules_accessed`: list of approved modules  
-- `persona_consistency`: verified by Guardian
+- [`role-activation.md`](role-activation.md) — Declare your stewardship  
+- [`review-protocol.md`](review-protocol.md) — Approve or revise artifacts  
+- [`visionary-roles.md`](visionary-roles.md) — Understand your powers  
+- [`violations.md`](../nxn-ethics/violations.md) — Report misuse
 
 ---
 
-> _“Let community be not a crowd, but a covenant — where dignity is the default.”_  
+> _“Let this be a sanctuary, not a stage.”_  
 > — MJ Ahmad
-
 

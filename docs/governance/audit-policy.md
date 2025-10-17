@@ -1,66 +1,53 @@
-# Audit Policy — Change Detection & Stewardship Logging
+# Audit Policy — Stewardship of Traceability
 
 **Curated by**: MJ Ahmad — Steward of Ethical Inheritance  
-**Governance Type**: Constitutional Audit Protocol  
-**Last Updated**: October 16, 2025
+**Document Type**: Governance Protocol  
+**Last Updated**: October 17, 2025
 
 ---
 
 ## 🧭 Purpose
 
-This policy defines how changes, upgrades, and contributions are tracked, validated, and preserved within the MJ-Ahmad Documentation Hub. It ensures that every modification is traceable, ethical, and inheritable.
+This policy defines how all changes within the MJ-Ahmad Documentation Hub are tracked, verified, and reviewed. It ensures that no edit is hidden, no steward is erased, and no artifact is lost.
 
 ---
 
-## 🔍 Audit Principles
+## 🔍 Audit Requirements
 
-- **Traceability First**  
-  Every change must leave a timestamped trail — no silent edits.
-
-- **No Anonymous Contributions**  
-  All changes must be linked to a steward identity and role.
-
-- **Semantic Logging**  
-  Audit logs must describe the nature, purpose, and impact of each change.
-
-- **Version Integrity**  
-  No overwrite without version bump and metadata update.
-
-- **Constitutional Review**  
-  Major changes must pass through [Visionary Roles](visionary-roles.md)
+| Requirement             | Status     | Notes                                           |
+|-------------------------|------------|--------------------------------------------------|
+| Metadata attached        | ✅ Required | Must include steward name and audit hash        |
+| Audit hash verified      | ✅ Required | Must match latest entry in `change-log.json`    |
+| Review status declared   | ✅ Required | Must be `approved`, `pending`, or `rejected`    |
+| Steward attribution      | ✅ Required | Must match `role-activation.md`                 |
+| Licensing clause         | ✅ Required | Must include Ethical Inheritance License        |
 
 ---
 
-## 🧾 Audit Metadata Requirements
+## 🧾 Audit Artifacts
 
-Each change must include:
-
-- `changed_by`: Steward name or ID  
-- `date_changed`: ISO format  
-- `change_type`: correction, enhancement, refactor, etc.  
-- `affected_files`: list of paths  
-- `audit_hash`: Git commit or SHA256  
-- `review_status`: pending, approved, rejected  
-- `linked_issue`: optional reference to discussion or proposal
+- `audit/change-log.json` — Ledger of all edits, hashes, and timestamps  
+- `*.metadata.json` — Per-file metadata with review status and steward info  
+- `review-protocol.md` — Artifact ratification and revision process  
+- `violations.md` — Breach ledger for misuse or distortion
 
 ---
 
-## 🛡️ Logging Tools
+## 🛡️ Ethical Boundaries
 
-- PowerShell audit scripts (`audit.ps1`)  
-- Git commit logs with signed messages  
-- Metadata snapshots before and after change  
-- Optional integration with GitHub Actions for CI validation
-
----
-
-## 🔐 Enforcement
-
-Any undocumented change is a constitutional violation. Stewards must correct or revert such changes and document the incident in `violations.md`.
+- No edit may bypass metadata or audit logging  
+- No steward may erase another’s contribution  
+- No artifact may be distributed without traceability  
+- No logic may be altered without ethics validation
 
 ---
 
-> _“Let no change be silent. Let no truth be lost. Let every step be traceable.”_  
+## 🔐 Licensing
+
+All audit processes are governed by the **Ethical Inheritance License**. Traceability is not optional — it is constitutional.
+
+---
+
+> _“Let every change be visible — not to control, but to protect.”_  
 > — MJ Ahmad
-
 

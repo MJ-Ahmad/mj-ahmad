@@ -1,0 +1,24 @@
+{
+  "file": "treasury/README.md",
+  "title": "Nexara Treasury — Ethical Value Stewardship",
+  "description": "Overview of the treasury system governing value-bearing modules, disbursement protocols, and ethical licensing.",
+  "author": "MJ Ahmad",
+  "steward_role": "Treasury Architect",
+  "review_status": "approved",
+  "date_created": "2025-10-17",
+  "date_reviewed": "2025-10-17",
+  "reviewed_by": "MJ Ahmad",
+  "linked_modules": [
+    "treasury/disbursement-log.md",
+    "treasury/purpose-registry.md",
+    "audit/change-log.json",
+    "distribution-engine/README.md",
+    "governance/review-protocol.md"
+  ],
+  "ethics_passed": true,
+  "audit_hash": "pending",
+  "license": "Ethical Inheritance License",
+  "notes": "Treasury module activated with full ethical perimeter and traceable value logic."
+}
+
+
