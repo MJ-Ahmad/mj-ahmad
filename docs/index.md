@@ -144,7 +144,15 @@ _Research, ethics, and protection against distortion in Quranic documentation._
 - [`quraner-fariwala/README.md`](quraner-fariwala/README.md) — Module overview  
 - [`quraner-fariwala/research.md`](quraner-fariwala/research.md) — Research methodology  
 - [`quraner-fariwala/ethics.md`](quraner-fariwala/ethics.md) — Protection against distortion  
-- [`quraner-fariwala/distribution.md`](quraner-fariwala/distribution.md) — Sharing and safeguarding
+- [`quraner-fariwala/distribution.md`](quraner-fariwala/distribution.md) — Sharing and safeguarding  
+- [`quraner-fariwala/quraner-fariwala-legal-continuity.md`](quraner-fariwala/quraner-fariwala-legal-continuity.md) — Legal continuity declaration  
+- [`quraner-fariwala/quraner-fariwala-restoration-plan.md`](quraner-fariwala/quraner-fariwala-restoration-plan.md) — Institutional restoration ledger  
+- [`quraner-fariwala/quraner-fariwala-donation-gateway.md`](quraner-fariwala/quraner-fariwala-donation-gateway.md) — Multi-currency donation gateway  
+- [`quraner-fariwala/quraner-fariwala-campaign-manifesto.md`](quraner-fariwala/quraner-fariwala-campaign-manifesto.md) — Global campaign manifesto  
+- [`quraner-fariwala/sponsor-tiers.md`](quraner-fariwala/sponsor-tiers.md) — Sponsorship tiers and benefits  
+- [`quraner-fariwala/sponsor-badges/`](quraner-fariwala/sponsor-badges/) — Tier-specific visual badges  
+- [`quraner-fariwala/legal-correspondence/`](quraner-fariwala/legal-correspondence/) — Formal letters to authorities  
+- [`quraner-fariwala/quraner-fariwala-index.md`](quraner-fariwala/quraner-fariwala-index.md) — Public index and activation gateway
 
 ---
 
