@@ -2,8 +2,8 @@
   {
     "file_path": "\\audit\\change-log.json",
     "file_type": ".json",
-    "date_modified": "2025-10-17T09:08:53Z",
-    "audit_hash": "F5D4EFF8B7B4231F4B610A974F5372A96156ED473D26BC5CBD9106CCBE4C3BB8",
+    "date_modified": "2025-10-17T10:51:30Z",
+    "audit_hash": "91F020AE97436A64D71608F85E92C3DD0405E60FBABB570247EBA0042B6A0EA7",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -351,6 +351,60 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\quraner-fariwala\\legal-correspondence\\trade-license-renewal-request.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:29:49Z",
+    "audit_hash": "CBEE66D5F49840D0CDC4458011D066F90097346C4B8280803EC9B1D998352F39",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\legal-correspondence\\trade-license-renewal-request.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "7734A56BAF9876EF565D5B85D24B3DB3B2B6D629DFE773B8B9952F61DA812F9A",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\legal-correspondence\\uk-reinstatement-request.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:29:50Z",
+    "audit_hash": "D21636BE92BE4831E9990F7F66466E113910CC45A2D95C0F82A922B780D0977D",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\legal-correspondence\\uk-reinstatement-request.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "E97DECC6A844A0FDE6B32460AF2D6671759F47D484868525F7CFF648B4327E65",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\sponsor-badges\\sponsor.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T22:15:35Z",
+    "audit_hash": "4F28AFDA5CD2E09168E39707FB75195C6CCAB34A38EE0D3F68882E6FF1CDE2D8",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\sponsor-badges\\sponsor.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "3BDB6B0E9AC3341C9C83F187DC96903A2F3A3BD5C72B560215EB1321351DB3E9",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\quraner-fariwala\\distribution.md",
     "file_type": ".md",
     "date_modified": "2025-10-17T02:11:26Z",
@@ -387,6 +441,96 @@
     "traceability": 1.0
   },
   {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-campaign-manifesto.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:42:07Z",
+    "audit_hash": "68CA44FA53D9DAFAE5A47D43B1D097C3FA6F1491EE88C37C7040AD1A822FC842",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-campaign-manifesto.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "3E90513769C081670E25A2E3F590E33C85D178CEF26D4B136B752E9CD64F7105",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-donation-gateway.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:34:52Z",
+    "audit_hash": "F2818CA8E23701B79A2E94C209EAB2FE1F993F71FDE0FEC6FE84630D5664A935",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-donation-gateway.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "A5A7D844797A136272C5AD31BD694061AF2D79AD058F3CE5AC019AB9C0526A72",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-index.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T22:18:22Z",
+    "audit_hash": "B31A735E920865B878189E8BB1807F75FCC86DF9E847F8D779632A274EBDF26F",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-index.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "BCBC4130D0A7532C567FB91DFE878F12FD11F906986893582E69A3F2DF4CC872",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-legal-continuity.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:21:18Z",
+    "audit_hash": "67509B69913454976A7F675C260959D2FA33B91CA3BE9E41B7C8957A5E2847D1",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-legal-continuity.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "2A4A8896367C4E1349B36062538A251A6AF5115D11354B695B53E02C772FAF25",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-restoration-plan.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:34:52Z",
+    "audit_hash": "D76625110A54F920679AFC04D65EB0CCE36807F73F483AFD5EFEAD235D63E89C",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\quraner-fariwala-restoration-plan.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "CCA6C4AD770DA5698A0C13616BDD73F6B9E5A29313575408BF2FFAA14B7D345F",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
     "file_path": "\\quraner-fariwala\\README.md",
     "file_type": ".md",
     "date_modified": "2025-10-17T02:14:53Z",
@@ -418,6 +562,24 @@
     "file_type": ".json",
     "date_modified": "2025-10-16T05:44:48Z",
     "audit_hash": "0D8A84E54409A6228BC1189F964CFFC3ED8DE7703E94881A8F93D29DA7080229",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\sponsor-tiers.md",
+    "file_type": ".md",
+    "date_modified": "2025-10-18T21:42:08Z",
+    "audit_hash": "AB095A4DA9FEBFA775F21BADACCCDECE501CC4FB9A2646581964C3C254EF1274",
+    "steward": "MJ Ahmad",
+    "review_status": "pending",
+    "traceability": 1.0
+  },
+  {
+    "file_path": "\\quraner-fariwala\\sponsor-tiers.metadata.json",
+    "file_type": ".json",
+    "date_modified": "2025-10-18T22:22:30Z",
+    "audit_hash": "F5F6C98E1233DA0F215570F5582706D24D7FA692534E6192BF4A427B4035C680",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
@@ -767,8 +929,8 @@
   {
     "file_path": "\\index.md",
     "file_type": ".md",
-    "date_modified": "2025-10-17T09:07:05Z",
-    "audit_hash": "51365BE78E5E651684109CF885B5E36371A90CA3C6DC47F8554B70FF5127F8D6",
+    "date_modified": "2025-10-18T22:21:26Z",
+    "audit_hash": "A9BAB7832023934DA99EB1D68555C410ABD4C3B93E5A6E5C6BDA91AD003FAC6C",
     "steward": "MJ Ahmad",
     "review_status": "pending",
     "traceability": 1.0
