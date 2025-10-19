@@ -2,7 +2,62 @@
 
 **Curated by**: MJ Ahmad — Steward of Ethical Inheritance  
 **Document Type**: System Index  
-**Last Updated**: October 17, 2025
+**Last Updated**: October 19, 2025
+
+---
+
+_This index is not a directory. It is a declaration — that every module, every steward, and every learner deserves clarity, dignity, and traceable inheritance._
+
+---
+
+## 🏛️ Core Modules  
+→ Constitution, Whitepaper, Roadmap, Glossary, Contributor Registry
+
+## 🧠 Logic & Ethics  
+→ NXN Genesis, Ethics Manifesto, Violation Ledger
+
+## 🧾 Governance  
+→ Role Activation, Voting Policy, Emergency Protocol, Ratification Ledger
+
+## 🧠 Behavioral Governance  
+→ Persona Consistency and Ethical Tone
+
+## 🛡️ Security Protocols  
+→ Threat Model, Incident Response, Guardian Handbook
+
+## 💰 Treasury System  
+→ Purpose Registry, Disbursement Log
+
+## 🧮 Merit System  
+→ Contribution Scorecard and Recognition Logic
+
+## 📦 Distribution  
+→ Copy logistics and dissemination protocols
+
+## 🚀 Deployment Records  
+→ Setup instructions and activation history
+
+## 🪙 Tokenomics  
+→ Value logic and ethical circulation
+
+## 📚 Quraner Fariwala  
+→ Research, Restoration, Legal Continuity, Campaign, Donation Gateway
+
+## 🧾 Support & Clarity  
+→ FAQ, Vision, Personal Fund Declaration, Public Support Page
+
+---
+
+> _“Let no file be lost, no steward forgotten, and no learner left behind.”_  
+> — MJ Ahmad
+
+---
+
+# MJ-Ahmad Documentation Hub — Constitutional Index
+
+**Curated by**: MJ Ahmad — Steward of Ethical Inheritance  
+**Document Type**: System Index  
+**Last Updated**: October 19, 2025
 
 ---
 
@@ -45,17 +100,17 @@ _Protocols for consent, ratification, and steward legitimacy._
 
 🔍 [Read full overview](governance-overview.md)
 
-- [`governance/community-charter.md`](governance/community-charter.md) — Shared values and entry terms  
-- [`governance/role-activation.md`](governance/role-activation.md) — Steward onboarding form  
-- [`governance/visionary-roles.md`](governance/visionary-roles.md) — Role definitions and review powers  
-- [`governance/audit-policy.md`](governance/audit-policy.md) — Audit and traceability rules  
-- [`governance/review-protocol.md`](governance/review-protocol.md) — Artifact ratification process  
-- [`governance/proposal-template.md`](governance/proposal-template.md) — Stewarded change format  
-- [`governance/decision-tree.md`](governance/decision-tree.md) — Governance logic flow  
-- [`governance/voting-policy.md`](governance/voting-policy.md) — Consent and decision protocol  
-- [`governance/emergency-protocol.md`](governance/emergency-protocol.md) — System safeguard sequence  
-- [`governance/ratification-process.md`](governance/ratification-process.md) — Steward consent protocol  
-- [`governance/ratified-actions.md`](governance/ratified-actions.md) — Ledger of inherited truth
+- [`governance/community-charter.md`](governance/community-charter.md)  
+- [`governance/role-activation.md`](governance/role-activation.md)  
+- [`governance/visionary-roles.md`](governance/visionary-roles.md)  
+- [`governance/audit-policy.md`](governance/audit-policy.md)  
+- [`governance/review-protocol.md`](governance/review-protocol.md)  
+- [`governance/proposal-template.md`](governance/proposal-template.md)  
+- [`governance/decision-tree.md`](governance/decision-tree.md)  
+- [`governance/voting-policy.md`](governance/voting-policy.md)  
+- [`governance/emergency-protocol.md`](governance/emergency-protocol.md)  
+- [`governance/ratification-process.md`](governance/ratification-process.md)  
+- [`governance/ratified-actions.md`](governance/ratified-actions.md)
 
 ---
 
@@ -65,7 +120,7 @@ _Protocols for tone, language, and ethical voice across all modules._
 
 🔍 [Read full overview](behavior-overview.md)
 
-- [`behavior/persona-consistency.md`](behavior/persona-consistency.md) — Defines tone, language, and constitutional clarity
+- [`behavior/persona-consistency.md`](behavior/persona-consistency.md)
 
 ---
 
@@ -75,9 +130,9 @@ _Stewarded responses to threat, breach, and systemic risk._
 
 🔍 [Read full overview](security-overview.md)
 
-- [`security/threat-model.md`](security/threat-model.md) — Threat boundaries and risk logic  
-- [`security/incident-response.md`](security/incident-response.md) — Response protocol for breaches  
-- [`security/guardian-handbook.md`](security/guardian-handbook.md) — Steward roles during emergency
+- [`security/threat-model.md`](security/threat-model.md)  
+- [`security/incident-response.md`](security/incident-response.md)  
+- [`security/guardian-handbook.md`](security/guardian-handbook.md)
 
 ---
 
@@ -87,9 +142,9 @@ _Traceable stewardship of value-bearing modules and ethical disbursement._
 
 🔍 [Read full overview](treasury-overview.md)
 
-- [`treasury/README.md`](treasury/README.md) — Ethical value stewardship  
-- [`treasury/purpose-registry.md`](treasury/purpose-registry.md) — Justification archive  
-- [`treasury/disbursement-log.md`](treasury/disbursement-log.md) — Ledger of value transfers
+- [`treasury/README.md`](treasury/README.md)  
+- [`treasury/purpose-registry.md`](treasury/purpose-registry.md)  
+- [`treasury/disbursement-log.md`](treasury/disbursement-log.md)
 
 ---
 
@@ -99,8 +154,8 @@ _Contribution scoring and ethics-based recognition._
 
 🔍 [Read full overview](merit-overview.md)
 
-- [`merit-engine/README.md`](merit-engine/README.md) — Overview of merit logic  
-- [`merit-engine/scorecard.md`](merit-engine/scorecard.md) — Contribution scoring and ethics
+- [`merit-engine/README.md`](merit-engine/README.md)  
+- [`merit-engine/scorecard.md`](merit-engine/scorecard.md)
 
 ---
 
@@ -110,7 +165,7 @@ _Protocols for safe, traceable dissemination of system modules._
 
 🔍 [Read full overview](distribution-overview.md)
 
-- [`distribution-engine/README.md`](distribution-engine/README.md) — Safe, traceable dissemination protocol
+- [`distribution-engine/README.md`](distribution-engine/README.md)
 
 ---
 
@@ -120,8 +175,8 @@ _Activation history and reproducible setup instructions._
 
 🔍 [Read full overview](deployment-overview.md)
 
-- [`deployment-guide.md`](deployment-guide.md) — Setup and activation instructions  
-- [`deployment-record.md`](deployment-record.md) — Deployment history and traceability
+- [`deployment-guide.md`](deployment-guide.md)  
+- [`deployment-record.md`](deployment-record.md)
 
 ---
 
@@ -131,7 +186,7 @@ _Value logic and circulation boundaries for ethical exchange._
 
 🔍 [Read full overview](tokenomics-overview.md)
 
-- [`tokenomics.md`](tokenomics.md) — Value logic and circulation boundaries
+- [`tokenomics.md`](tokenomics.md)
 
 ---
 
@@ -141,18 +196,18 @@ _Research, ethics, and protection against distortion in Quranic documentation._
 
 🔍 [Read full overview](quraner-fariwala-overview.md)
 
-- [`quraner-fariwala/README.md`](quraner-fariwala/README.md) — Module overview  
-- [`quraner-fariwala/research.md`](quraner-fariwala/research.md) — Research methodology  
-- [`quraner-fariwala/ethics.md`](quraner-fariwala/ethics.md) — Protection against distortion  
-- [`quraner-fariwala/distribution.md`](quraner-fariwala/distribution.md) — Sharing and safeguarding  
-- [`quraner-fariwala/quraner-fariwala-legal-continuity.md`](quraner-fariwala/quraner-fariwala-legal-continuity.md) — Legal continuity declaration  
-- [`quraner-fariwala/quraner-fariwala-restoration-plan.md`](quraner-fariwala/quraner-fariwala-restoration-plan.md) — Institutional restoration ledger  
-- [`quraner-fariwala/quraner-fariwala-donation-gateway.md`](quraner-fariwala/quraner-fariwala-donation-gateway.md) — Multi-currency donation gateway  
-- [`quraner-fariwala/quraner-fariwala-campaign-manifesto.md`](quraner-fariwala/quraner-fariwala-campaign-manifesto.md) — Global campaign manifesto  
-- [`quraner-fariwala/sponsor-tiers.md`](quraner-fariwala/sponsor-tiers.md) — Sponsorship tiers and benefits  
-- [`quraner-fariwala/sponsor-badges/`](quraner-fariwala/sponsor-badges/) — Tier-specific visual badges  
-- [`quraner-fariwala/legal-correspondence/`](quraner-fariwala/legal-correspondence/) — Formal letters to authorities  
-- [`quraner-fariwala/quraner-fariwala-index.md`](quraner-fariwala/quraner-fariwala-index.md) — Public index and activation gateway
+- [`quraner-fariwala/README.md`](quraner-fariwala/README.md)  
+- [`quraner-fariwala/quraner-fariwala-index.md`](quraner-fariwala/quraner-fariwala-index.md)  
+- [`quraner-fariwala/research.md`](quraner-fariwala/research.md)  
+- [`quraner-fariwala/ethics.md`](quraner-fariwala/ethics.md)  
+- [`quraner-fariwala/distribution.md`](quraner-fariwala/distribution.md)  
+- [`quraner-fariwala/quraner-fariwala-legal-continuity.md`](quraner-fariwala/quraner-fariwala-legal-continuity.md)  
+- [`quraner-fariwala/quraner-fariwala-restoration-plan.md`](quraner-fariwala/quraner-fariwala-restoration-plan.md)  
+- [`quraner-fariwala/quraner-fariwala-campaign-manifesto.md`](quraner-fariwala/quraner-fariwala-campaign-manifesto.md)  
+- [`quraner-fariwala/quraner-fariwala-donation-gateway.md`](quraner-fariwala/quraner-fariwala-donation-gateway.md)  
+- [`quraner-fariwala/sponsor-tiers.md`](quraner-fariwala/sponsor-tiers.md)  
+- [`quraner-fariwala/sponsor-badges/`](quraner-fariwala/sponsor-badges/)  
+- [`quraner-fariwala/legal-correspondence/`](quraner-fariwala/legal-correspondence/)
 
 ---
 
@@ -162,12 +217,14 @@ _Answers, aspirations, and long-term sanctuary design._
 
 🔍 [Read full overview](support-overview.md)
 
-- [`faq.md`](faq.md) — Common questions and glossary-linked answers  
-- [`vision.md`](vision.md) — Long-term goals and sanctuary design
+- [`faq.md`](faq.md)  
+- [`vision.md`](vision.md)
 
 ---
 
-## 💸 Stewardship Continuity
+## 💸 Stewardship Continuity  
+
+_Traceable support for daily constitutional stewardship._
 
 🔍 [Read full declaration](personal-fund-declaration.md)  
 🌐 [Public support page](support-mj.md)

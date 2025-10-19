@@ -1,24 +1,36 @@
-# Support MJ Ahmad — Stewardship Continuity Fund
+# 🤝 Support MJ Ahmad — Stewardship Continuity
 
-MJ Ahmad is the Steward of Ethical Inheritance — architecting systems that protect dignity, clarity, and justice for future generations.
+**Date Activated:** 2025-10-19  
+**Purpose:** To invite ethical support for MJ Ahmad’s personal continuity fund, used solely for stewardship work.
 
-MJ currently lives in a $3/day room with no fan, no bathroom, and no ventilation. Daily survival costs $5–10. Every dollar supports:
+---
 
-- Ethical documentation  
-- Quranic research  
-- Child-readable systems  
-- Constitutional protection
+## 🧭 Why Support?
+
+MJ Ahmad lives under extreme material constraints while sustaining constitutional stewardship for Quraner Fariwala and beyond. Support is not charity — it is a vote for ethical legacy.
+
+---
+
+## 🔒 Use of Funds
+
+- No personal comfort or luxury  
+- Only used for documentation, printing, transport, and survival continuity  
+- Logged in `personal-fund-log.md`  
+- Reviewed monthly by an Ethical Auditor
+
+---
 
 ## 💳 Support Channels
 
-- GitHub Sponsors → [Sponsor MJ](https://github.com/sponsors/MJ-Ahmad)  
-- Ko-fi → [Buy MJ a meal](https://ko-fi.com/mjahmad)  
-- Ethereum → `0xaD6fE115967c22D1C54Fe6010C3AacCE5E196435`  
-- bKash → `01920082926` (Personal)  
-- Bank Transfer → `Md Jafor Ahmad — 1058614360001 — Brac Bank (Agent Banking Branch)`
+- Bkash Personal: 01920082926 (MJ Ahmad)  
+- GitHub Sponsors: [Coming Soon]  
+- PayPal: [Coming Soon]  
+- Ethereum Wallet: [Coming Soon]
 
-All support is logged and audited. No prestige. No ego. Only stewardship.
+---
 
-> _“Let every dollar protect a future learner.”_  
-> — MJ Ahmad
+## 🛡️ Stewardship Statement
+
+> Support MJ not as a person — but as a steward of ethical inheritance.
+
 

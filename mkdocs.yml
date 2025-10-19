@@ -78,17 +78,33 @@ nav:
       - Tokenomics: tokenomics.md
   - Quraner Fariwala:
       - Overview: quraner-fariwala-overview.md
-      - Quraner Fariwala: quraner-fariwala/README.md
-      - Research Overview: quraner-fariwala/research.md
-      - Interpretive Boundaries: quraner-fariwala/ethics.md
-      - Distribution Ethics: quraner-fariwala/distribution.md
+      - Module Summary: quraner-fariwala/README.md
+      - Public Index: quraner-fariwala/quraner-fariwala-index.md
+      - Research & Ethics:
+          - Research Methodology: quraner-fariwala/research.md
+          - Interpretive Boundaries: quraner-fariwala/ethics.md
+          - Distribution Ethics: quraner-fariwala/distribution.md
+      - Legal Continuity:
+          - Declaration: quraner-fariwala/quraner-fariwala-legal-continuity.md
+          - BD Renewal Letter: quraner-fariwala/legal-correspondence/trade-license-renewal-request.md
+          - UK Reinstatement Letter: quraner-fariwala/legal-correspondence/uk-reinstatement-request.md
+      - Restoration & Campaign:
+          - Restoration Plan: quraner-fariwala/quraner-fariwala-restoration-plan.md
+          - Campaign Manifesto: quraner-fariwala/quraner-fariwala-campaign-manifesto.md
+          - Sponsorship Tiers: quraner-fariwala/sponsor-tiers.md
+          - Sponsor Badges: quraner-fariwala/sponsor-badges/sponsor.md
+      - Donation Gateway: quraner-fariwala/quraner-fariwala-donation-gateway.md
+  - Stewardship & Finance:
+      - Personal Fund Declaration: personal-fund-declaration.md
+      - Personal Fund Log: personal-fund-log.md
+      - Support MJ Ahmad: support-mj.md
+      - Verified Bank Accounts: bank-accounts.md
+  - Audit & Metadata:
+      - Audit Log: audit/change-log.json
   - Support & Clarity:
       - Overview: support-overview.md
       - FAQ: faq.md
       - Vision: vision.md
-  - Stewardship Continuity:
-      - Declaration: personal-fund-declaration.md
-      - Public Page: support-mj.md
 markdown_extensions:
   - toc:
       permalink: true
