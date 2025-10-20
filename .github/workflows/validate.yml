@@ -1,0 +1,40 @@
+name: Stewardship Validation
+
+on:
+  push:
+    paths:
+      - '**.ps1'
+      - '**.json'
+      - '**.md'
+      - '**.yml'
+  pull_request:
+    paths:
+      - '**.ps1'
+      - '**.json'
+      - '**.md'
+      - '**.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          find . -name "*.json" -exec jq empty {} \;
+
+      - name: Validate Markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+
+      - name: Validate MkDocs config
+        run: |
+          pip install mkdocs
+          mkdocs build --strict
+
+      - name: Run PowerShell validation script
+        shell: pwsh
+        run: |
+          pwsh ./scripts/validate-protocol-data.ps1
+

@@ -1,0 +1,23 @@
+# 🔹 System artifacts
+*.DS_Store
+Thumbs.db
+
+# 🔹 Logs and temp
+*.log
+*.tmp
+*.bak
+
+# 🔹 Python/MkDocs cache
+__pycache__/
+site/
+*.pyc
+
+# 🔹 Local-only metadata
+metadata/validation-report.txt
+metadata/audit-log.md
+
+# 🔹 Secrets or private drafts
+practice/drafts/
+projects/**/budget-private.json
+
+

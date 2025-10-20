@@ -1,0 +1,24 @@
+{
+  "total_target": 40000,
+  "unit_cost": 120,
+  "total_budget": 4800000,
+  "sources": [
+    {
+      "donor_id": "D-001",
+      "amount": 1000000,
+      "note": "Institutional donor"
+    },
+    {
+      "donor_id": "D-002",
+      "amount": 500000,
+      "note": "Individual contributor"
+    }
+  ],
+  "categories": {
+    "printing": 3600000,
+    "transport": 600000,
+    "documentation": 300000,
+    "audit": 300000
+  }
+}
+

@@ -1,0 +1,25 @@
+[
+  {
+    "receipt_id": "R-1001",
+    "donor_id": "D-001",
+    "recipient": "Al-Falah Madrasa, Dhaka",
+    "copies": 1000,
+    "verified": true
+  },
+  {
+    "receipt_id": "R-1002",
+    "donor_id": "D-001",
+    "recipient": "Rangpur Islamic Center",
+    "copies": 1500,
+    "verified": true
+  },
+  {
+    "receipt_id": "R-1003",
+    "donor_id": "D-002",
+    "recipient": "Sylhet Quran Academy",
+    "copies": 1200,
+    "verified": false
+  }
+]
+
+

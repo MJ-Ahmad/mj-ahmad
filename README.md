@@ -16,7 +16,7 @@
 
 ---
 
-## 🧭 Why This Profile Exists
+## 🧭 Why This Repository Exists
 
 This is not a résumé.  
 This is not a portfolio.  
@@ -37,28 +37,90 @@ I build systems that protect truth, empower learners, and preserve dignity — e
 
 ---
 
-## 📚 My Stewardship Ecosystem
+## 🧭 Stewardship System Architecture — Conceptual Diagram
 
-Each repository is a governance domain.  
+```
+                          ┌────────────────────────────┐
+                          │     mj-ahmad/              │
+                          │  (Primary Stewardship Hub) │
+                          └────────────┬───────────────┘
+                                       │
+         ┌─────────────────────────────┼─────────────────────────────┐
+         │                             │                             │
+┌────────▼────────┐         ┌──────────▼─────────┐         ┌─────────▼─────────┐
+│  protocols/     │         │  systems/          │         │  projects/        │
+│  (Public docs)  │         │  (Donor, Supporter)│         │  (Real-world plans)│
+└──────┬──────────┘         └─────────┬──────────┘         └─────────┬─────────┘
+       │                              │                                │
+       ▼                              ▼                                ▼
+┌──────────────┐           ┌────────────────┐              ┌────────────────────┐
+│ docs/, ethics│           │ DonorSystem/,  │              │ quran-fariwala-40k/│
+│ modules/     │           │ SupporterSystem│              │ plan.md, budget.json│
+└──────────────┘           └────────────────┘              └────────────────────┘
+
+                                       │
+                                       ▼
+                          ┌────────────────────────────┐
+                          │     metadata/              │
+                          │  (Index, audit, linkage)   │
+                          └────────────┬───────────────┘
+                                       ▼
+                          ┌────────────────────────────┐
+                          │     public/                │
+                          │  (MkDocs-ready docs)       │
+                          └────────────────────────────┘
+
+                                       │
+                                       ▼
+                          ┌────────────────────────────┐
+                          │     practice/              │
+                          │  (Personal learning)       │
+                          └────────────────────────────┘
+
+                                       │
+                                       ▼
+                          ┌────────────────────────────┐
+                          │     ethics/, legal/        │
+                          │  (Boundary & rights)       │
+                          └────────────────────────────┘
+```
+
+---
+
+Each folder is a governance layer.  
 Each module is a traceable artifact.  
 Each file is designed for inheritance — not display.
 
-### 🔹 [`mj-ahmad`](https://github.com/mj-ahmad/mj-ahmad)
-A legacy-first system for:
+### 🔹 Core Structure
 
-- 🏛️ Core Modules — Constitution, Whitepaper, Roadmap, Glossary  
-- 🧠 Logic & Ethics — NXN Genesis, Violation Ledger, Ethical Boundaries  
-- 🧾 Governance — Role Activation, Voting Policy, Emergency Protocol  
-- 🛡️ Security — Threat Model, Incident Response, Guardian Handbook  
-- 💰 Treasury — Purpose Registry, Disbursement Log  
-- 🧮 Merit — Contribution Scorecard  
-- 📦 Distribution — Copy logistics and dissemination protocols  
-- 🚀 Deployment — Setup instructions and activation history  
-- 🪙 Tokenomics — Value logic and ethical circulation  
-- 📚 Quraner Fariwala — Restoration, campaign, and distribution of 40,000 Qur’ans  
-- 💸 Stewardship Continuity — Personal fund declaration and audit-linked ledger
+```
+mj-ahmad/
+├── protocols/         → Public-facing inheritable modules
+├── systems/           → Donor, Supporter, Receipt, Payment
+├── projects/          → Real-world plans (e.g. Quraner Fariwala)
+├── practice/          → Personal learning, reflection, experimentation
+├── public/            → MkDocs-ready documentation
+├── metadata/          → Index, audit-log, validation, linkage
+├── ethics/            → Boundary rules and stewardship values
+├── legal/             → Rights, claims, and publication scope
+├── linkage/           → Public-private relationship map
+├── manifest.json      → Constitutional map of all modules
+├── README.md          → This document
+```
 
-🔍 [Explore the Documentation Hub](https://mj-ahmad.github.io/mj-ahmad)
+---
+
+## 🧾 Featured Project: Quraner Fariwala
+
+A legacy-driven campaign to print and distribute 40,000 copies of the Qur’an with full ethical traceability.
+
+- 📦 Logistics: Distribution protocols and region mapping  
+- 💰 Budget: Transparent cost breakdown and donor linkage  
+- 🧾 Receipts: Proof of flow and recipient verification  
+- 🛡️ Ethics: Boundary enforcement and publication rights  
+- 🔗 Linkage: Connected to DonorSystem, SupporterSystem, and ReceiptSystem
+
+Explore: `projects/quran-fariwala-40k/`
 
 ---
 
@@ -80,10 +142,19 @@ Each technology I use is not a tool — it is a steward.
 
 ---
 
+## 🔍 Documentation Access
+
+- 🌐 Public Site: [mj-ahmad.github.io/mj-ahmad](https://mj-ahmad.github.io/mj-ahmad)  
+- 📁 MkDocs Config: `public/mkdocs.yml`  
+- 📚 Docs Folder: `public/docs/`  
+- 🧭 Manifest: `manifest.json`  
+- 🛡️ Audit Log: `metadata/audit-log.md`
+
+---
+
 ## 💬 Contact & Support
 
 - 📧 Email: [mjahmad2024@outlook.com](mailto:mjahmad2024@outlook.com)  
-- 🌐 Documentation: [mj-ahmad.github.io/mj-ahmad](https://mj-ahmad.github.io/mj-ahmad)  
 - 💖 Sponsors: [github.com/sponsors/MJ-Ahmad](https://github.com/sponsors/MJ-Ahmad)  
 - 🔗 LinkedIn: [linkedin.com/in/jafor-ahmad](https://linkedin.com/in/jafor-ahmad)
 
@@ -91,3 +162,5 @@ Each technology I use is not a tool — it is a steward.
 
 > “Let the documentation be as transparent as the protocol, and as dignified as the people it serves.”  
 > — MJ Ahmad
+
+---

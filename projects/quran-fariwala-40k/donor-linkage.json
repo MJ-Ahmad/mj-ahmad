@@ -1,0 +1,15 @@
+[
+  {
+    "donor_id": "D-001",
+    "linked_receipts": ["R-1001", "R-1002"],
+    "region": "Dhaka",
+    "amount": 1000000
+  },
+  {
+    "donor_id": "D-002",
+    "linked_receipts": ["R-1003"],
+    "region": "Sylhet",
+    "amount": 500000
+  }
+]
+

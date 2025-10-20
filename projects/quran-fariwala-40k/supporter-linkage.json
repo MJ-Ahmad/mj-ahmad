@@ -1,0 +1,16 @@
+[
+  {
+    "supporter_id": "S-101",
+    "role": "Field Coordinator",
+    "region": "Barisal",
+    "linked_targets": ["Barisal", "Khulna"]
+  },
+  {
+    "supporter_id": "S-102",
+    "role": "Documentation Steward",
+    "region": "Dhaka",
+    "linked_targets": ["Dhaka", "Mymensingh"]
+  }
+]
+
+
