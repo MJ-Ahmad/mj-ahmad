@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Legal Record Metadata",
+  "type": "object",
+  "required": ["id", "type", "status", "created", "updated", "location", "assigned_to"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": {
+      "type": "string",
+      "enum": [
+        "individual-claim",
+        "group-claim",
+        "contract",
+        "notice",
+        "evidence",
+        "litigation",
+        "penalty",
+        "protection"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "under-review", "escalated", "resolved", "archived"]
+    },
+    "created": { "type": "string", "format": "date" },
+    "updated": { "type": "string", "format": "date" },
+    "location": { "type": "string" },
+    "assigned_to": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}
+
+

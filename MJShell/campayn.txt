@@ -1,0 +1,106 @@
+mj-ahmad/
+├── docs/                          ← Public documentation
+├── private-archive/              ← Sensitive donor/supporter data
+├── campaign-engine/              ← Campaign planning, outreach, and tracking
+│   ├── README.md
+│   ├── strategy/
+│   │   ├── outreach-pathways.md
+│   │   ├── media-plan.md
+│   │   ├── sponsor-engagement.md
+│   │   └── volunteer-activation.md
+│   ├── templates/
+│   │   ├── email/
+│   │   │   ├── donor-confirmation.txt
+│   │   │   ├── sponsor-invitation.txt
+│   │   │   └── press-release.txt
+│   │   ├── social/
+│   │   │   ├── facebook-post.txt
+│   │   │   ├── instagram-caption.txt
+│   │   │   └── whatsapp-blast.txt
+│   ├── targets/
+│   │   ├── district-map.md
+│   │   ├── copy-distribution-plan.md
+│   │   └── progress-tracker.json
+│   ├── donor-engagement/
+│   │   ├── sponsor-index.md
+│   │   ├── gratitude-wall.md
+│   │   └── badge-logic.md
+│   └── reports/
+│       ├── weekly-summary-YYYY-MM-DD.md
+│       ├── outreach-impact.md
+│       └── audit-sync.md
+├── legal-archive/                ← Legal documents and correspondence
+│   ├── README.md
+│   ├── bd/
+│   │   ├── trade-license-renewal.md
+│   │   ├── bank-verification.md
+│   ├── uk/
+│   │   ├── reinstatement-request.md
+│   │   ├── company-house-trail.md
+│   └── global/
+│       ├── donor-compliance.md
+│       ├── gateway-terms.md
+
+
+mj-ahmad/
+├── private-archive/
+│   ├── personal-channel/
+│   │   ├── README.md
+│   │   ├── ledger.json
+│   │   ├── receipts/
+│   │   │   ├── PC-2025-0001.md
+│   │   │   ├── PC-2025-0002.md
+│   │   ├── correspondence/
+│   │   │   ├── PC-2025-0001-confirmation.txt
+│   │   │   ├── PC-2025-0002-confirmation.txt
+
+
+[
+  {
+    "transaction_id": "PC-2025-0001",
+    "date": "2025-10-19",
+    "amount_bdt": 500,
+    "channel": "Bkash Personal",
+    "sender": "Anonymous",
+    "purpose": "Printing advance",
+    "receipt_issued": true,
+    "auditor_reviewed": false,
+    "notes": "Requested anonymity"
+  },
+  {
+    "transaction_id": "PC-2025-0002",
+    "date": "2025-10-20",
+    "amount_bdt": 300,
+    "channel": "Hand Cash",
+    "sender": "Farzana Islam",
+    "purpose": "Transport support",
+    "receipt_issued": true,
+    "auditor_reviewed": true,
+    "notes": "Logged and confirmed"
+  }
+]
+
+
+# 📄 Receipt — PC-2025-0001
+
+**Channel:** Bkash Personal  
+**Amount:** 500 BDT  
+**Date:** 2025-10-19  
+**Sender:** Anonymous  
+**Purpose:** Printing advance  
+**Transaction ID:** PC-2025-0001
+
+This receipt confirms that the above amount was received via personal channel and logged for institutional use.
+
+
+Subject: Confirmation of Institutional Receipt — PC-2025-0001
+
+Dear Donor,
+
+Your contribution of 500 BDT via MJ Ahmad’s personal Bkash account has been received and logged under Transaction ID PC-2025-0001.
+
+This amount will be used solely for Qur’an printing and institutional continuity.
+
+— MJ Ahmad  
+Steward, Quraner Fariwala
+

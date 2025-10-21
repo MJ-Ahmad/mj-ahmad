@@ -1,0 +1,25 @@
+[
+  {
+    "receipt_id": "RC-2025-0001",
+    "date": "2025-10-19",
+    "type": "donor",
+    "reference_id": "QF-2025-0001",
+    "name": "Abdur Rahman",
+    "amount_bdt": 500,
+    "channel": "Bkash Merchant",
+    "purpose": "Single Copy Sponsor",
+    "receipt_file": "RC-2025-0001.md"
+  },
+  {
+    "receipt_id": "RC-2025-0002",
+    "date": "2025-10-20",
+    "type": "supporter",
+    "reference_id": "SP-2025-0001-Nazmul",
+    "name": "Nazmul Hossain",
+    "amount_bdt": 1500,
+    "channel": "Hand Cash",
+    "purpose": "Printing Advance",
+    "receipt_file": "RC-2025-0002.md"
+  }
+]
+

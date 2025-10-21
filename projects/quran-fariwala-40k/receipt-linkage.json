@@ -2,24 +2,30 @@
   {
     "receipt_id": "R-1001",
     "donor_id": "D-001",
-    "recipient": "Al-Falah Madrasa, Dhaka",
-    "copies": 1000,
+    "recipient": "Al-Falah Orphanage, Dhaka",
+    "copies": 2000,
     "verified": true
   },
   {
     "receipt_id": "R-1002",
     "donor_id": "D-001",
-    "recipient": "Rangpur Islamic Center",
-    "copies": 1500,
+    "recipient": "Rangpur Hifz Academy",
+    "copies": 3000,
     "verified": true
   },
   {
     "receipt_id": "R-1003",
     "donor_id": "D-002",
-    "recipient": "Sylhet Quran Academy",
-    "copies": 1200,
+    "recipient": "Sylhet Quran Centre",
+    "copies": 2500,
     "verified": false
+  },
+  {
+    "receipt_id": "R-1004",
+    "donor_id": "D-003",
+    "recipient": "Barisal Madrasa Network",
+    "copies": 4000,
+    "verified": true
   }
 ]
-
 

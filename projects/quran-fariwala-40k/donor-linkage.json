@@ -1,15 +1,25 @@
 [
   {
     "donor_id": "D-001",
-    "linked_receipts": ["R-1001", "R-1002"],
+    "name": "Global Patron Foundation",
+    "amount": 8800000,
     "region": "Dhaka",
-    "amount": 1000000
+    "linked_receipts": ["R-1001", "R-1002"]
   },
   {
     "donor_id": "D-002",
-    "linked_receipts": ["R-1003"],
+    "name": "Individual Sponsor — UK",
+    "amount": 5800000,
     "region": "Sylhet",
-    "amount": 500000
+    "linked_receipts": ["R-1003"]
+  },
+  {
+    "donor_id": "D-003",
+    "name": "Diaspora Collective — USA",
+    "amount": 1626800,
+    "region": "Barisal",
+    "linked_receipts": ["R-1004"]
   }
 ]
+
 

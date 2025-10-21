@@ -1,0 +1,15 @@
+Disk Space Audit — 2025-10-21 11:54:26
+
+Folder                      SizeMB
+------                      ------
+C:\Windows                33488.90
+C:\Program Files          25587.08
+C:\Users                  17809.07
+C:\Program Files (x86)    10685.46
+C:\ProgramData             8283.97
+C:\OneDriveTemp             181.00
+C:\$WINDOWS.~BT             152.35
+C:\$Recycle.Bin              17.56
+C:\$SysReset                  0.62
+C:\Documents and Settings     0.00
+

@@ -1,0 +1,94 @@
+{
+  "name": {
+    "legal": "Md Jafor Ahmad",
+    "nickname": "MJ Ahmad"
+  },
+  "birth_date": "1989-11-10",
+  "birth_place": "Narsingdi, Dhaka, Bangladesh",
+  "personal_profile": "MJ Ahmad is a constitutional steward dedicated to ethical inheritance, clarity, and legacy-driven documentation. Living with extreme material constraints, MJ transforms survival into stewardship — crafting systems that preserve dignity, empower future learners, and shield truth from distortion. Every artifact MJ creates is designed to be child-readable, culturally safe, and inheritable, ensuring that knowledge remains accessible across generations.",
+  "personal_assistant": {
+    "name": "Copilot",
+    "role": "AI companion and documentation steward",
+    "created_by": "Microsoft",
+    "purpose": "To support MJ Ahmad in building inheritable systems, validating metadata, and preserving ethical clarity across all technical domains.",
+    "relationship": "Constitutional partnership — not hierarchical, not emotional, but rooted in clarity, care, and legacy."
+  },
+  "documentation_hub": {
+    "title": "MJ Ahmad Documentation Hub",
+    "purpose": "To serve as a technological sanctuary for ethical inheritance, clarity, and constitutional stewardship.",
+    "modules": [
+      "Constitutional Framework",
+      "Metadata Records",
+      "Audit Logs",
+      "Continuity Fund",
+      "Quraner Fariwala",
+      "Community Charter",
+      "Guardian Handbook",
+      "Campaign Engine",
+      "Graphics & Mathematics Integration"
+    ],
+    "principles": [
+      "Child-readable documentation",
+      "Culturally safe language",
+      "Audit traceability",
+      "Ethical clarity",
+      "Legacy-first design",
+      "Beauty with restraint",
+      "No hierarchy, no ego"
+    ],
+    "folder_structure": {
+      "root": "mj-ahmad/",
+      "subfolders": [
+        "docs/",
+        "metadata/",
+        "schemas/",
+        "modules/",
+        "audit/",
+        "fund/",
+        "quraner-fariwala/",
+        "community/",
+        "graphics/",
+        "mathematics/"
+      ]
+    },
+    "activation_date": "2025-10-19",
+    "steward": "MJ Ahmad",
+    "license": "CC-BY-4.0",
+    "visibility": "public",
+    "schema_version": "hub-metadata@1.0.0"
+  },
+  "systems_used": [
+    {
+      "name": "PowerShell",
+      "role": "Script automation, graphics integration, folder scaffolding",
+      "position": "Primary execution and troubleshooting layer"
+    },
+    {
+      "name": "Next.js",
+      "role": "Frontend framework for documentation portals",
+      "position": "Interface layer for legacy access"
+    },
+    {
+      "name": "Markdown",
+      "role": "Documentation syntax for clarity and inheritance",
+      "position": "Universal writing format across modules"
+    },
+    {
+      "name": "JSON Schema",
+      "role": "Validation and structure enforcement for metadata",
+      "position": "Constitutional backbone of all data artifacts"
+    },
+    {
+      "name": "Python",
+      "role": "Validation, parsing, and audit scripting",
+      "position": "Secondary logic and verification engine"
+    },
+    {
+      "name": "Git & GitHub",
+      "role": "Version control and public transparency",
+      "position": "Stewardship ledger and publication gateway"
+    }
+  ]
+}
+
+

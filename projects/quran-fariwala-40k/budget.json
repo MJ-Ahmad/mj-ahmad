@@ -1,24 +1,19 @@
 {
-  "total_target": 40000,
-  "unit_cost": 120,
-  "total_budget": 4800000,
-  "sources": [
-    {
-      "donor_id": "D-001",
-      "amount": 1000000,
-      "note": "Institutional donor"
-    },
-    {
-      "donor_id": "D-002",
-      "amount": 500000,
-      "note": "Individual contributor"
-    }
-  ],
-  "categories": {
-    "printing": 3600000,
-    "transport": 600000,
-    "documentation": 300000,
-    "audit": 300000
+  "campaign": "Quraner Fariwala — 40,000 Copy Distribution",
+  "date": "2025-10-19",
+  "currency": "BDT",
+  "total_required": 16216800,
+  "breakdown": {
+    "quran_printing": 9716800,
+    "operational_legal_contingency": 1000000,
+    "debt_recovery": 2500000,
+    "infrastructure_restoration": 1800000,
+    "global_outreach": 1200000
+  },
+  "conversion": {
+    "USD": 146500,
+    "GBP": 120000
   }
 }
+
 

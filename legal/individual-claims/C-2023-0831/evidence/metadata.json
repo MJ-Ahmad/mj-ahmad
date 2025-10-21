@@ -1,0 +1,9 @@
+{
+  "claim_id": "C-2023-0831",
+  "evidence_types": ["photo", "audio", "screenshot", "message"],
+  "locations": ["uttara-sector-5", "paltan-office"],
+  "status": "collected",
+  "last_updated": "2025-10-21"
+}
+
+

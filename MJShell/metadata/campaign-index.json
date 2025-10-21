@@ -1,0 +1,42 @@
+[
+  {
+    "campaign_id": "CF-2025",
+    "name": "Quraner Fariwala",
+    "status": "active",
+    "target": "Distribute 40,000 Qur’ans by Jan 2026",
+    "start_date": "2025-10-19",
+    "linked_folder": "projects/quran-fariwala-40k",
+    "scripts": [
+      "Start-Campaign.ps1",
+      "Track-DonorFlow.ps1",
+      "Generate-Receipts.ps1",
+      "Sync-SocialPush.ps1",
+      "Validate-Impact.ps1"
+    ],
+    "funding_file": "funding.json",
+    "audit_logs": [
+      "audit/campaign-log.md",
+      "audit/input-output-log.md",
+      "audit/reply-content-log.md",
+      "audit/anomaly-log.md"
+    ]
+  },
+  {
+    "campaign_id": "CF-2026-HIFZ",
+    "name": "Orphan Hifz Drive",
+    "status": "planned",
+    "target": "Sponsor 10,000 orphaned Hifz learners",
+    "start_date": "2026-02-01",
+    "linked_folder": "projects/orphan-hifz-drive",
+    "scripts": [
+      "Start-Campaign.ps1",
+      "Track-DonorFlow.ps1",
+      "Sync-SocialPush.ps1"
+    ],
+    "funding_file": "funding.json",
+    "audit_logs": [
+      "audit/campaign-log.md"
+    ]
+  }
+]
+

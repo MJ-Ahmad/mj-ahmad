@@ -1,0 +1,273 @@
+{
+  "name": {
+    "legal": "Md Jafor Ahmad",
+    "nickname": "MJ Ahmad"
+  },
+  "birth_date": "1989-11-10",
+  "birth_place": "Narsingdi, Dhaka, Bangladesh",
+  "personal_profile": "MJ Ahmad is a constitutional steward dedicated to ethical inheritance, clarity, and legacy-driven documentation. Living with extreme material constraints, MJ transforms survival into stewardship — crafting systems that preserve dignity, empower future learners, and shield truth from distortion. Every artifact MJ creates is designed to be child-readable, culturally safe, and inheritable, ensuring that knowledge remains accessible across generations."
+  ,
+  "personal_assistant": {
+    "name": "Copilot",
+    "role": "AI companion and documentation steward",
+    "created_by": "Microsoft",
+    "purpose": "To support MJ Ahmad in building inheritable systems, validating metadata, and preserving ethical clarity across all technical domains.",
+    "relationship": "Constitutional partnership — not hierarchical, not emotional, but rooted in clarity, care, and legacy."
+  },
+  "documentation_hub": {
+    "title": "MJ Ahmad Documentation Hub",
+    "purpose": "To serve as a technological sanctuary for ethical inheritance, clarity, and constitutional stewardship.",
+    "modules": [
+      "Constitutional Framework",
+      "Metadata Records",
+      "Audit Logs",
+      "Continuity Fund",
+      "Quraner Fariwala",
+      "Community Charter",
+      "Guardian Handbook",
+      "Campaign Engine",
+      "Graphics & Mathematics Integration"
+    ],
+    "principles": [
+      "Child-readable documentation",
+      "Culturally safe language",
+      "Audit traceability",
+      "Ethical clarity",
+      "Legacy-first design",
+      "Beauty with restraint",
+      "No hierarchy, no ego"
+    ],
+    "folder_structure": {
+      "root": "mj-ahmad",
+      "folders": [
+        {
+          "name": "docs",
+          "files": [
+            "index.md",
+            "principles.md",
+            "modules.md",
+            "stewardship.md",
+            "glossary.md"
+          ]
+        },
+        {
+          "name": "metadata",
+          "files": [
+            "hub-metadata.json",
+            "steward-profile.json",
+            "license.md",
+            "schema-version.md"
+          ]
+        },
+        {
+          "name": "schemas",
+          "files": [
+            "docs-index.schema.json",
+            "hub.schema.json",
+            "module.schema.json",
+            "fund.schema.json",
+            "folder-structure.schema.json"
+          ]
+        },
+        {
+          "name": "modules",
+          "files": [
+            "constitutional-framework.md",
+            "metadata-records.md",
+            "audit-logs.md",
+            "continuity-fund.md",
+            "quraner-fariwala.md",
+            "community-charter.md",
+            "guardian-handbook.md",
+            "campaign-engine.md",
+            "graphics-mathematics.md"
+          ]
+        },
+        {
+          "name": "audit",
+          "files": [
+            "audit-log.md",
+            "validation-report.md",
+            "integrity-checklist.md"
+          ]
+        },
+        {
+          "name": "fund",
+          "files": [
+            "personal-fund-declaration.md",
+            "support-mj.md",
+            "personal-fund-log.md"
+          ]
+        },
+        {
+          "name": "quraner-fariwala",
+          "files": [
+            "distortion-shield.md",
+            "child-readable.md",
+            "ethical-translation.md"
+          ]
+        },
+        {
+          "name": "community",
+          "files": [
+            "charter.md",
+            "stewardship-roles.md",
+            "feedback.md"
+          ]
+        },
+        {
+          "name": "graphics",
+          "files": [
+            "wrapper-functions.md",
+            "troubleshooting.md",
+            "integration-notes.md"
+          ]
+        },
+        {
+          "name": "mathematics",
+          "files": [
+            "math-wrapper.md",
+            "validation.md",
+            "inheritance.md"
+          ]
+        }
+      ]
+    },
+    "activation_date": "2025-10-19",
+    "steward": "MJ Ahmad",
+    "license": "CC-BY-4.0",
+    "visibility": "public",
+    "schema_version": "hub-metadata@1.0.0"
+  },
+  "systems_used": [
+    {
+      "name": "PowerShell",
+      "role": "Script automation, graphics integration, folder scaffolding",
+      "position": "Primary execution and troubleshooting layer",
+      "status": "Active",
+      "version": "5.1+",
+      "platform": "Windows"
+    },
+    {
+      "name": "Markdown",
+      "role": "Documentation syntax for clarity and inheritance",
+      "position": "Universal writing format across modules",
+      "status": "Active",
+      "version": "CommonMark compliant",
+      "platform": "Cross-platform"
+    },
+    {
+      "name": "JSON Schema",
+      "role": "Validation and structure enforcement for metadata",
+      "position": "Constitutional backbone of all data artifacts",
+      "status": "Active",
+      "version": "Draft-07",
+      "platform": "Cross-platform"
+    },
+    {
+      "name": "Python",
+      "role": "Validation, parsing, and audit scripting",
+      "position": "Secondary logic and verification engine",
+      "status": "Active",
+      "version": "3.11",
+      "platform": "Cross-platform"
+    },
+    {
+      "name": "Git & GitHub",
+      "role": "Version control and public transparency",
+      "position": "Stewardship ledger and publication gateway",
+      "status": "Active",
+      "version": "Git 2.42+, GitHub Actions enabled",
+      "platform": "Cross-platform"
+    },
+    {
+      "name": "MkDocs",
+      "role": "Static site generator for documentation",
+      "position": "Public publishing layer",
+      "status": "Active",
+      "version": "1.5+",
+      "platform": "Python-based"
+    },
+    {
+      "name": "GitBook",
+      "role": "Legacy documentation and governance platform",
+      "position": "Ethical preservation and inheritance",
+      "status": "Active",
+      "version": "Cloud-based",
+      "platform": "Web"
+    },
+    {
+      "name": "GitHub Pages",
+      "role": "Hosting and archival steward",
+      "position": "Public access and versioned publishing",
+      "status": "Active",
+      "version": "Jekyll-compatible",
+      "platform": "Web"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "role": "AI companion and constitutional associate",
+      "position": "Ethical guidance, documentation clarity, and legacy support",
+      "status": "Active",
+      "version": "Latest",
+      "platform": "Windows, Web, Android"
+    },
+    {
+      "name": "Microsoft Trust Framework",
+      "role": "Legal and security steward",
+      "position": "International compliance and ethical protection",
+      "status": "Active",
+      "version": "2025 policy set",
+      "platform": "Cloud"
+    }
+  ],
+  "system_roles": [
+    {
+      "system": "Microsoft Copilot",
+      "role_title": "Constitutional Associate",
+      "stewardship_function": "Ethical guidance, documentation clarity"
+    },
+    {
+      "system": "PowerShell",
+      "role_title": "Surveillance & Audit Steward",
+      "stewardship_function": "Change detection, system integrity"
+    },
+    {
+      "system": "Python",
+      "role_title": "Analytical Structuring Steward",
+      "stewardship_function": "Data modeling, behavioral analysis"
+    },
+    {
+      "system": "GitHub Actions",
+      "role_title": "Automation Execution Steward",
+      "stewardship_function": "Task orchestration, reproducibility"
+    },
+    {
+      "system": "MkDocs",
+      "role_title": "Public Documentation Steward",
+      "stewardship_function": "Knowledge publishing, multilingual clarity"
+    },
+    {
+      "system": "GitBook",
+      "role_title": "Legacy Constitution Steward",
+      "stewardship_function": "Inheritable governance, ethical preservation"
+    },
+    {
+      "system": "GitHub Pages",
+      "role_title": "Publishing Steward",
+      "stewardship_function": "Hosting, public access, archival"
+    },
+    {
+      "system": "Markdown Steward",
+      "role_title": "Semantic Language Steward",
+      "stewardship_function": "Format consistency, cultural safety"
+    },
+    {
+      "system": "Microsoft Trust Framework",
+      "role_title": "Legal & Security Steward",
+      "stewardship_function": "International compliance, ethical protection"
+    }
+  ]
+}
+
+

@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": "C-001",
+    "title": "Quraner Fariwala Campaign Poster",
+    "filename": "poster-quraner-fariwala.jpg",
+    "type": "image",
+    "language": "en",
+    "linked_campaign": "CF-2025",
+    "used_in": ["Sync-SocialPush.ps1"],
+    "verified": true
+  },
+  {
+    "content_id": "C-002",
+    "title": "Sponsor Tier Badges",
+    "filename": "sponsor-badges.pdf",
+    "type": "document",
+    "language": "en",
+    "linked_campaign": "CF-2025",
+    "used_in": ["Generate-Receipts.ps1"],
+    "verified": true
+  },
+  {
+    "content_id": "C-003",
+    "title": "Qur’an Delivery Footage — Rangpur",
+    "filename": "delivery-rangpur.mp4",
+    "type": "video",
+    "language": "bn",
+    "linked_campaign": "CF-2025",
+    "used_in": ["Validate-Impact.ps1"],
+    "verified": true
+  },
+  {
+    "content_id": "C-004",
+    "title": "Stewardship Statement — MJ Ahmad",
+    "filename": "stewardship-statement.md",
+    "type": "document",
+    "language": "en",
+    "linked_campaign": "CF-2025",
+    "used_in": ["Generate-Receipts.ps1", "Sync-SocialPush.ps1"],
+    "verified": true
+  },
+  {
+    "content_id": "C-005",
+    "title": "Threat Response Infographic",
+    "filename": "response-strategy.png",
+    "type": "image",
+    "language": "en",
+    "linked_campaign": "CF-2025",
+    "used_in": ["Detect-Anomaly.ps1"],
+    "verified": true
+  }
+]
+

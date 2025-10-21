@@ -1,0 +1,15 @@
+{
+  "donor_id": "D-001",
+  "name": "Global Patron Foundation",
+  "type": "Institutional",
+  "region": "Dhaka",
+  "contact_email": "donor@gpf.org",
+  "linked_campaigns": ["quran-fariwala-40k"],
+  "contribution": {
+    "amount_bdt": 8800000,
+    "date": "2025-10-19",
+    "tier": "Debt Recovery Partner"
+  },
+  "receipt_status": "sent"
+}
+

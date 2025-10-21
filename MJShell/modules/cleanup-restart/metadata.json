@@ -1,0 +1,20 @@
+
+{
+  "module": "cleanup-restart",
+  "version": "1.0",
+  "author": "MJ Ahmad",
+  "stewardship_role": "System Clarity Steward",
+  "constitutional": true,
+  "inheritable": true,
+  "child_readable": true,
+  "requires_admin": true,
+  "actions": [
+    "Clear temp folders",
+    "Clear update cache",
+    "Clear logs and histories",
+    "Empty recycle bin",
+    "Restart system"
+  ]
+}
+
+

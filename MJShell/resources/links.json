@@ -1,0 +1,66 @@
+[
+  {
+    "link_id": "L-001",
+    "title": "Quraner Fariwala — Campaign Overview",
+    "url": "https://mj-ahmad.github.io/mj-ahmad/quraner-fariwala/",
+    "type": "campaign",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Sync-SocialPush.ps1", "Generate-Receipts.ps1"]
+  },
+  {
+    "link_id": "L-002",
+    "title": "Sponsor Tiers — Badge View",
+    "url": "https://mj-ahmad.github.io/mj-ahmad/quraner-fariwala/sponsor-badges/",
+    "type": "sponsorship",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Generate-Receipts.ps1"]
+  },
+  {
+    "link_id": "L-003",
+    "title": "GitHub Sponsors — MJ Ahmad",
+    "url": "https://github.com/sponsors/MJ-Ahmad",
+    "type": "funding",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Sync-SocialPush.ps1"]
+  },
+  {
+    "link_id": "L-004",
+    "title": "Ko-fi — MJ Ahmad",
+    "url": "https://ko-fi.com/mjahmad",
+    "type": "funding",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Sync-SocialPush.ps1"]
+  },
+  {
+    "link_id": "L-005",
+    "title": "PayPal — Quraner Fariwala",
+    "url": "https://paypal.me/quranerfariwala",
+    "type": "funding",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Track-DonorFlow.ps1"]
+  },
+  {
+    "link_id": "L-006",
+    "title": "Wise — Global Transfer",
+    "url": "https://wise.com/pay/quranerfariwala",
+    "type": "funding",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Track-DonorFlow.ps1"]
+  },
+  {
+    "link_id": "L-007",
+    "title": "Public Documentation — MkDocs",
+    "url": "https://mj-ahmad.github.io/mj-ahmad/docs/",
+    "type": "documentation",
+    "language": "en",
+    "verified": true,
+    "used_in": ["Sync-SocialPush.ps1"]
+  }
+]
+

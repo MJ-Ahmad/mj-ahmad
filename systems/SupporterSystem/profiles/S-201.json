@@ -1,0 +1,11 @@
+{
+  "supporter_id": "S-201",
+  "name": "Rafiq Islam",
+  "role": "Field Coordinator",
+  "region": "Rangpur",
+  "contact_email": "rafiq@field.org",
+  "linked_targets": ["Rangpur"],
+  "active": true,
+  "last_verified": "2025-10-19"
+}
+

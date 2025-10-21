@@ -1,0 +1,9 @@
+{
+  "stripe": "pending",
+  "wise": "pending",
+  "paypal": "pending",
+  "ethereum": "pending",
+  "bkash": "active",
+  "bank": "active"
+}
+

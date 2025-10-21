@@ -1,0 +1,18 @@
+{
+  "claim_id": "G-2023-0831",
+  "evidence_types": ["screenshot", "audio", "photo", "message"],
+  "status": "collected",
+  "last_updated": "2025-10-21",
+  "sources": [
+    "message-samples/",
+    "intimidation-threads/",
+    "screenshots/",
+    "audio-clips/",
+    "location-photos/"
+  ],
+  "validation": {
+    "verified_by": "MJ Ahmad",
+    "method": "manual review and timestamp cross-check"
+  }
+}
+

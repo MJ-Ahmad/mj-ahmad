@@ -1,0 +1,141 @@
+{
+  "title": "MJ-Ahmad Documentation Hub — Constitutional Index",
+  "curated_by": "MJ Ahmad — Steward of Ethical Inheritance",
+  "document_type": "System Index",
+  "last_updated": "2025-10-19",
+  "declaration": "This index is not a directory. It is a declaration — that every module, every steward, and every learner deserves clarity, dignity, and traceable inheritance.",
+  "quote": "Let no file be lost, no steward forgotten, and no learner left behind.",
+  "sections": [
+    {
+      "name": "Core Modules",
+      "description": "The foundational pillars of the system — purpose, principles, and public covenant.",
+      "files": [
+        "constitution.md",
+        "whitepaper.md",
+        "glossary.md",
+        "roadmap.md",
+        "contributors.md",
+        "CONTRIBUTING.md"
+      ]
+    },
+    {
+      "name": "Logic & Ethics",
+      "description": "The engine of derivation and the boundaries of ethical reasoning.",
+      "files": [
+        "nxn-genesis/README.md",
+        "nxn-genesis/rules.md",
+        "nxn-ethics/README.md",
+        "nxn-ethics/violations.md",
+        "ethics.md"
+      ]
+    },
+    {
+      "name": "Governance",
+      "description": "Protocols for consent, ratification, and steward legitimacy.",
+      "files": [
+        "governance/community-charter.md",
+        "governance/role-activation.md",
+        "governance/visionary-roles.md",
+        "governance/audit-policy.md",
+        "governance/review-protocol.md",
+        "governance/proposal-template.md",
+        "governance/decision-tree.md",
+        "governance/voting-policy.md",
+        "governance/emergency-protocol.md",
+        "governance/ratification-process.md",
+        "governance/ratified-actions.md"
+      ]
+    },
+    {
+      "name": "Behavioral Governance",
+      "description": "Protocols for tone, language, and ethical voice across all modules.",
+      "files": [
+        "behavior/persona-consistency.md"
+      ]
+    },
+    {
+      "name": "Security Protocols",
+      "description": "Stewarded responses to threat, breach, and systemic risk.",
+      "files": [
+        "security/threat-model.md",
+        "security/incident-response.md",
+        "security/guardian-handbook.md"
+      ]
+    },
+    {
+      "name": "Treasury System",
+      "description": "Traceable stewardship of value-bearing modules and ethical disbursement.",
+      "files": [
+        "treasury/README.md",
+        "treasury/purpose-registry.md",
+        "treasury/disbursement-log.md"
+      ]
+    },
+    {
+      "name": "Merit System",
+      "description": "Contribution scoring and ethics-based recognition.",
+      "files": [
+        "merit-engine/README.md",
+        "merit-engine/scorecard.md"
+      ]
+    },
+    {
+      "name": "Distribution",
+      "description": "Protocols for safe, traceable dissemination of system modules.",
+      "files": [
+        "distribution-engine/README.md"
+      ]
+    },
+    {
+      "name": "Deployment Records",
+      "description": "Activation history and reproducible setup instructions.",
+      "files": [
+        "deployment-guide.md",
+        "deployment-record.md"
+      ]
+    },
+    {
+      "name": "Tokenomics",
+      "description": "Value logic and circulation boundaries for ethical exchange.",
+      "files": [
+        "tokenomics.md"
+      ]
+    },
+    {
+      "name": "Quraner Fariwala",
+      "description": "Research, ethics, and protection against distortion in Quranic documentation.",
+      "files": [
+        "quraner-fariwala/README.md",
+        "quraner-fariwala/quraner-fariwala-index.md",
+        "quraner-fariwala/research.md",
+        "quraner-fariwala/ethics.md",
+        "quraner-fariwala/distribution.md",
+        "quraner-fariwala/quraner-fariwala-legal-continuity.md",
+        "quraner-fariwala/quraner-fariwala-restoration-plan.md",
+        "quraner-fariwala/quraner-fariwala-campaign-manifesto.md",
+        "quraner-fariwala/quraner-fariwala-donation-gateway.md",
+        "quraner-fariwala/sponsor-tiers.md",
+        "quraner-fariwala/sponsor-badges/",
+        "quraner-fariwala/legal-correspondence/"
+      ]
+    },
+    {
+      "name": "Support & Clarity",
+      "description": "Answers, aspirations, and long-term sanctuary design.",
+      "files": [
+        "faq.md",
+        "vision.md"
+      ]
+    },
+    {
+      "name": "Stewardship Continuity",
+      "description": "Traceable support for daily constitutional stewardship.",
+      "files": [
+        "personal-fund-declaration.md",
+        "support-mj.md"
+      ]
+    }
+  ]
+}
+
+

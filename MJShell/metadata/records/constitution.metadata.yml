@@ -1,0 +1,15 @@
+id: mjahmad:docs:constitution
+title: "Constitution of MJ-Ahmad Documentation Hub"
+steward: "Md Jafor Ahmad"
+created: 2025-10-19T00:00:00Z
+modified: 2025-10-19T00:00:00Z
+version: "1.0.0"
+checksum: "sha256:abc123..."
+provenance:
+  - "initiated:personal-fund-declaration.md"
+visibility: public
+tags: [constitution, ethics, governance]
+license: "CC-BY-4.0"
+schema_version: "artifact-schema@1.0.0"
+
+

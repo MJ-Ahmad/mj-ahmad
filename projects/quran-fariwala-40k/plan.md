@@ -1,15 +1,59 @@
-# 📘 Quraner Fariwala — 40,000 Copy Distribution Plan
+# 📜 A Journey of Light: Global Revival of Qur’anic Access
 
-## 🎯 Objective
-To print and ethically distribute 40,000 copies of the Qur’an across underserved regions in Bangladesh, ensuring traceability, dignity, and stewardship continuity.
+**Date:** 2025-10-19  
+**Steward:** MJ Ahmad  
+**Campaign:** 40,000 Qur’an Distribution by January 2026
 
-## 🛡️ Stewardship Principles
-- Every copy must be traceable to a donor and recipient
-- No region should be excluded without ethical justification
-- Distribution must be documented and child-readable
+---
 
-## 🧩 Structure
-- Donor linkage via `donor-linkage.json`
-- Supporter mobilization via `supporter-linkage.json`
-- Receipt verification via `receipt-linkage.json`
-- Budget and logistics via `budget.json` and `target-map.md`
+## 🌍 Vision
+
+- Restore Bangladesh’s leading Qur’an printing institution  
+- Distribute 40,000 memorization-optimized Qur’ans across underserved communities  
+- Prioritize orphaned learners and Hifz centres  
+- Invite global patrons to sponsor, partner, and amplify this legacy
+
+---
+
+## 📦 Scope
+
+- Print 40,000 Qur’an Majeed volumes  
+- Restore infrastructure and settle legacy debts  
+- Build multi-currency donation gateway  
+- Enable diaspora and global Muslim communities to contribute with pride
+
+---
+
+## 🎨 Product Specs
+
+- Size: 21 cm × 14 cm | 668 pages  
+- Paper: 61 GSM archival-grade | 4-colour offset  
+- Binding: Durable cover + protective slipcase  
+- Layout: Symbolic markers for Hifz optimization
+
+---
+
+## 🎯 Impact Metrics
+
+- 40,000 Qur’ans distributed  
+- 10,000+ orphaned learners prioritized  
+- 1,000+ institutions reached  
+- 6+ currencies accepted
+
+---
+
+## 🧾 Transparency
+
+- Monthly budget dashboards  
+- Distribution registry with signatures and photos  
+- Post-campaign audit and testimonials  
+- Donor portal with live conversion and receipts
+
+---
+
+## 📣 Call to Action
+
+> Rebuild the legacy. Illuminate the future.  
+> Sponsor healing, heritage, and Hifz.
+
+

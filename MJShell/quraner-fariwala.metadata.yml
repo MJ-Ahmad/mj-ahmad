@@ -1,0 +1,16 @@
+id: mjahmad:module:quraner-fariwala
+title: "Quraner Fariwala"
+steward: "Md Jafor Ahmad"
+scope: "Restoration and ethical distribution of Qur'anic copies"
+legal_continuity_ref: "quraner-fariwala/quraner-fariwala-legal-continuity.md"
+distribution_policy_ref: "quraner-fariwala/distribution.md"
+sponsor_policy: "Institutional sponsorship only; no personal naming"
+access_constraints: "Institutional distribution only"
+associated_assets:
+  - "quraner-fariwala/sponsor-badges/"
+  - "quraner-fariwala/legal-correspondence/"
+provenance:
+  - "research:initial-survey-2025-06"
+schema_version: "module-metadata@1.0.0"
+
+

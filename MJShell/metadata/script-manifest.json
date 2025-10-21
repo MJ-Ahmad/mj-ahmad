@@ -1,0 +1,60 @@
+[
+  {
+    "script": "Start-Campaign.ps1",
+    "role": "Initialize campaign metadata and log start time",
+    "input": "campaign-id, timestamp",
+    "output": "campaign-log.md entry",
+    "linked_audit": "audit/campaign-log.md"
+  },
+  {
+    "script": "Track-DonorFlow.ps1",
+    "role": "Monitor donor contributions and update funding.json",
+    "input": "donor-index.json",
+    "output": "funding.json update, donor trace",
+    "linked_audit": "audit/input-output-log.md"
+  },
+  {
+    "script": "Generate-Receipts.ps1",
+    "role": "Send email receipts to recipients",
+    "input": "receipt profiles, email-template.md",
+    "output": "receipt dispatch log",
+    "linked_audit": "audit/reply-content-log.md"
+  },
+  {
+    "script": "Sync-SocialPush.ps1",
+    "role": "Post campaign updates to social media",
+    "input": "content-index.json, links.json",
+    "output": "social push log",
+    "linked_audit": "audit/campaign-log.md"
+  },
+  {
+    "script": "Validate-Impact.ps1",
+    "role": "Verify delivery and update impact metrics",
+    "input": "receipt profiles",
+    "output": "impact summary",
+    "linked_audit": "audit/input-output-log.md"
+  },
+  {
+    "script": "Log-Interaction.ps1",
+    "role": "Log every PowerShell interaction with timestamp",
+    "input": "script name, parameters",
+    "output": "interaction entry",
+    "linked_audit": "audit/input-output-log.md"
+  },
+  {
+    "script": "Detect-Anomaly.ps1",
+    "role": "Flag suspicious activity or malformed entries",
+    "input": "audit logs, funding.json",
+    "output": "anomaly-log.md entry",
+    "linked_audit": "audit/anomaly-log.md"
+  },
+  {
+    "script": "Run-FullCampaign.ps1",
+    "role": "Orchestrate all campaign scripts in sequence",
+    "input": "campaign-id",
+    "output": "full campaign trace",
+    "linked_audit": "audit/campaign-log.md"
+  }
+]
+
+

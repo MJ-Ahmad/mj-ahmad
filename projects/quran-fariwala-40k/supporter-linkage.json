@@ -1,16 +1,24 @@
 [
   {
-    "supporter_id": "S-101",
+    "supporter_id": "S-201",
+    "name": "Rafiq Islam",
     "role": "Field Coordinator",
+    "region": "Rangpur",
+    "linked_targets": ["Rangpur"]
+  },
+  {
+    "supporter_id": "S-202",
+    "name": "Fatema Noor",
+    "role": "Documentation Steward",
     "region": "Barisal",
     "linked_targets": ["Barisal", "Khulna"]
   },
   {
-    "supporter_id": "S-102",
-    "role": "Documentation Steward",
-    "region": "Dhaka",
-    "linked_targets": ["Dhaka", "Mymensingh"]
+    "supporter_id": "S-203",
+    "name": "Yusuf Chowdhury",
+    "role": "Diaspora Liaison",
+    "region": "Sylhet",
+    "linked_targets": ["Sylhet"]
   }
 ]
-
 

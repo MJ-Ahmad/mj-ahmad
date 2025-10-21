@@ -1,0 +1,19 @@
+
+{
+  "module": "disk-cleanse",
+  "version": "1.0",
+  "author": "MJ Ahmad",
+  "constitutional": true,
+  "child_readable": true,
+  "requires_admin": true,
+  "targets": [
+    "C:\\Users\\quran\\AppData\\Local\\Temp",
+    "C:\\Windows\\Temp",
+    "C:\\Windows\\Logs",
+    "SoftwareDistribution",
+    "Prefetch",
+    "Recycle Bin",
+    "Browser Cache"
+  ]
+}
+

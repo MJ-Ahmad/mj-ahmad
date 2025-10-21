@@ -1,0 +1,18 @@
+{
+  "module": "disk-space-check",
+  "version": "1.0",
+  "author": "MJ Ahmad",
+  "constitutional": true,
+  "child_readable": true,
+  "requires_admin": false,
+  "actions": [
+    "Audit disk space usage",
+    "Identify largest folders",
+    "Save audit log"
+  ],
+  "targets": [
+    "C:\\"
+  ],
+  "output": "disk-space-audit-log.txt"
+}
+
