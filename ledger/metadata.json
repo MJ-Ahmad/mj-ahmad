@@ -1,0 +1,9 @@
+{
+  "archive_name": "Stewardship Archive",
+  "created": "2025-10-21",
+  "modules": ["supporters", "donors", "loans"],
+  "language": "English",
+  "tone": "Constitutional, restrained, inheritable",
+  "audit_enabled": true
+}
+

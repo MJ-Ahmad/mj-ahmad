@@ -1,0 +1,1 @@
+# LegacyScoringTemplate.md Template

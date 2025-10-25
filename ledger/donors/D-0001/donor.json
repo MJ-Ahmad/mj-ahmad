@@ -1,0 +1,10 @@
+{
+  "amount": 2000,
+  "channel": "Bank Transfer",
+  "date": "2025-10-20",
+  "name": "Name Placeholder",
+  "reference": "TXN-D-0001-BANK-20251020",
+  "purpose": "Quran printing for shelter schools",
+  "notes": "Donated during October campaign",
+  "donor_id": "D-0001"
+}

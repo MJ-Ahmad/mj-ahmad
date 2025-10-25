@@ -1,0 +1,6 @@
+{
+  "supporters": [ { "id": "0001", "name": "Fatema Rahman", "joined": "2025-10-21", "amount": 1000 } ],
+  "donors": [ { "id": "D-0001", "name": "Abdul Karim", "date": "2025-10-20", "amount": 3000 } ],
+  "loans": [ { "id": "L-0001", "lender": "Shamsul Alam", "issued": "2025-10-19", "amount": 1500, "status": "Closed" } ]
+}
+
