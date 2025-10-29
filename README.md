@@ -1,5 +1,7 @@
 
-# Welcome to every human being
+<div align="center">
+<h1>🌟 Welcome to every human being</h1>
+</div>
 
 > **honored not by status, but by birthright.**  
 > **Carried across land and sea, nourished by what is good, and entrusted with the dignity of stewardship.**  
