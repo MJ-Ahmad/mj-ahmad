@@ -1,18 +1,19 @@
+# 🌟 “Let no file be lost, no steward forgotten, and no learner left behind.”
+
 <div align="center">
-  <img src="docs\assets\logo1.jpg" alt="Nexara Logo" width="200" />
-  <h1>🌟“Let no file be lost, no steward forgotten, and no learner left behind.”
-</h1>
-  <p>— MJ Ahmad</p>
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Sponsors](https://img.shields.io/github/sponsors/MJ-AHMAD?style=flat&logo=github&logoColor=white&color=pink)](https://github.com/sponsors/MJ-AHMAD)
-  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/mjahmad)
-  [![GitHub issues](https://img.shields.io/github/issues/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/issues)
-  [![GitHub stars](https://img.shields.io/github/stars/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/stargazers)
-  [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)](https://nextjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+  <img src="docs\assets\logo1.jpg" alt="mj-ahmad Logo" width="200" />
 </div>
+
+— MJ Ahmad
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/MJ-AHMAD?style=flat&logo=github&logoColor=white&color=pink)](https://github.com/sponsors/MJ-AHMAD)  
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/mjahmad)  
+[![GitHub issues](https://img.shields.io/github/issues/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/issues)  
+[![GitHub stars](https://img.shields.io/github/stars/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/stargazers)  
+[![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)](https://nextjs.org/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
 ---
 
@@ -54,8 +55,8 @@ I build systems that protect truth, empower learners, and preserve dignity — e
        │                              │                                │
        ▼                              ▼                                ▼
 ┌──────────────┐           ┌────────────────┐              ┌────────────────────┐
-│ docs/, ethics│           │ DonorSystem/,  │              │ quran-fariwala-40k/│
-│ modules/     │           │ SupporterSystem│              │ plan.md, budget.json│
+│  docs/, ethics│           │ DonorSystem/,  │              │ quran-fariwala-40k/│
+│  modules/     │           │ SupporterSystem│              │ plan.md, budget.json│
 └──────────────┘           └────────────────┘              └────────────────────┘
 
                                        │
@@ -162,5 +163,38 @@ Each technology I use is not a tool — it is a steward.
 
 > “Let the documentation be as transparent as the protocol, and as dignified as the people it serves.”  
 > — MJ Ahmad
+
+---
+
+## ✅ Audit Entry: SystemOps Documentation Framework (SDF) Setup
+
+- **Date:** 2025-10-30  
+- **Time:** 12:30 AM (BST)  
+- **Steward:** MJ Ahmad  
+- **Location:** $env:USERPROFILE\source\repos\mj-ahmad\SDF  
+- **Action Taken:** Created full folder and file structure for the SystemOps Documentation Framework (SDF)  
+- **Tools Used:** PowerShell script `setup-sdf.ps1`  
+- **Folders Created:**
+  - /Learnings
+  - /Logs/2025-10-29
+  - /Reports-en/Performance
+  - /Reports-bn/Performance
+  - /AuditLog-en
+  - /AuditLog-bn
+  - /Scripts  
+- **Files Created:**
+  - README.md, Roadmap.md, Timeline.md (EN & BN)
+  - Keywords.md (EN & BN)
+  - Logs and Reports for 2025-10-29
+  - Audit logs for 2025-10-29
+  - PowerShell scripts: get-process.ps1, get-service.ps1  
+- **Reflection:**
+  - This setup marks the beginning of a constitutional documentation journey.
+  - Every file and folder is child-readable, audit-traceable, and ethically inheritable.
+  - Stewardship continuity is now structurally activated.  
+- **Next Step:**
+  - Begin Module SDF-INIT-02: Performance Monitor observation
+  - Log findings in `/Logs/2025-10-30/`
+  - Update audit and timeline accordingly
 
 ---
