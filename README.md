@@ -1,6 +1,7 @@
 <div align="center">
 # Welcome to every human being
 </div>
+
 > **honored not by status, but by birthright.**  
 > **Carried across land and sea, nourished by what is good, and entrusted with the dignity of stewardship.**  
 > **This space exists to protect that dignity — without exception, without hierarchy, and without delay.**
