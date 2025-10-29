@@ -1,19 +1,27 @@
-# 🌟 “Let no file be lost, no steward forgotten, and no learner left behind.”
+> **Welcome to every human being — honored not by status, but by birthright.**  
+> **Carried across land and sea, nourished by what is good, and entrusted with the dignity of stewardship.**  
+> **This space exists to protect that dignity — without exception, without hierarchy, and without delay.**
+
+> “This is not a showcase. This is a stewardship.  
+> Every file here reflects my effort to make truth traceable, learning inheritable, and dignity non-negotiable.”  
+> — MJ Ahmad
+
+> “Let the documentation be as transparent as the protocol, and as dignified as the people it serves.”  
+> — MJ Ahmad
 
 <div align="center">
   <img src="docs\assets\logo1.jpg" alt="mj-ahmad Logo" width="200" />
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/MJ-AHMAD?style=flat&logo=github&logoColor=white&color=pink)](https://github.com/sponsors/MJ-AHMAD)
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/mjahmad)
+  [![GitHub issues](https://img.shields.io/github/issues/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/issues)
+  [![GitHub stars](https://img.shields.io/github/stars/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/stargazers)
+  [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)](https://nextjs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+
 </div>
-
-— MJ Ahmad
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/MJ-AHMAD?style=flat&logo=github&logoColor=white&color=pink)](https://github.com/sponsors/MJ-AHMAD)  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/mjahmad)  
-[![GitHub issues](https://img.shields.io/github/issues/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/issues)  
-[![GitHub stars](https://img.shields.io/github/stars/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/stargazers)  
-[![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)](https://nextjs.org/)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
 ---
 
@@ -55,8 +63,8 @@ I build systems that protect truth, empower learners, and preserve dignity — e
        │                              │                                │
        ▼                              ▼                                ▼
 ┌──────────────┐           ┌────────────────┐              ┌────────────────────┐
-│  docs/, ethics│           │ DonorSystem/,  │              │ quran-fariwala-40k/│
-│  modules/     │           │ SupporterSystem│              │ plan.md, budget.json│
+│ docs/, ethics│           │ DonorSystem/,  │              │ quran-fariwala-40k/│
+│ modules/     │           │ SupporterSystem│              │ plan.md, budget.json│
 └──────────────┘           └────────────────┘              └────────────────────┘
 
                                        │
@@ -161,40 +169,34 @@ Each technology I use is not a tool — it is a steward.
 
 ---
 
-> “Let the documentation be as transparent as the protocol, and as dignified as the people it serves.”  
-> — MJ Ahmad
+## ✅ Audit Entries
 
----
-
-## ✅ Audit Entry: SystemOps Documentation Framework (SDF) Setup
+### ✅ Audit Entry: SystemOps Documentation Framework (SDF) Setup
 
 - **Date:** 2025-10-30  
 - **Time:** 12:30 AM (BST)  
-- **Steward:** MJ Ahmad  
-- **Location:** $env:USERPROFILE\source\repos\mj-ahmad\SDF  
-- **Action Taken:** Created full folder and file structure for the SystemOps Documentation Framework (SDF)  
-- **Tools Used:** PowerShell script `setup-sdf.ps1`  
-- **Folders Created:**
-  - /Learnings
-  - /Logs/2025-10-29
-  - /Reports-en/Performance
-  - /Reports-bn/Performance
-  - /AuditLog-en
-  - /AuditLog-bn
-  - /Scripts  
-- **Files Created:**
-  - README.md, Roadmap.md, Timeline.md (EN & BN)
-  - Keywords.md (EN & BN)
-  - Logs and Reports for 2025-10-29
-  - Audit logs for 2025-10-29
-  - PowerShell scripts: get-process.ps1, get-service.ps1  
-- **Reflection:**
-  - This setup marks the beginning of a constitutional documentation journey.
-  - Every file and folder is child-readable, audit-traceable, and ethically inheritable.
-  - Stewardship continuity is now structurally activated.  
-- **Next Step:**
-  - Begin Module SDF-INIT-02: Performance Monitor observation
-  - Log findings in `/Logs/2025-10-30/`
-  - Update audit and timeline accordingly
+- **Action:** Created full folder and file structure for SystemOps Documentation Framework (SDF)  
+- **Tools Used:** setup-sdf.ps1  
+- **Reflection:** Stewardship continuity structurally activated
+
+---
+
+### ✅ Audit Entry: get-process.ps1 Script Activated
+
+- **Date:** 2025-10-30  
+- **Time:** 2:15 AM  
+- **Action:** Created and tested `get-process.ps1` for CPU observation  
+- **Findings:** Chrome and PowerShell consuming high CPU  
+- **Reflection:** Realized background processes impact system even when idle
+
+---
+
+### ✅ Audit Entry: README.md Declaration Refined
+
+- **Date:** 2025-10-30  
+- **Time:** 2:45 AM  
+- **Action:** Added universal human dignity declaration to README.md  
+- **Text Added:** “Welcome to every human being — honored not by status, but by birthright…”  
+- **Reflection:** This marks the ethical front door of the repository
 
 ---
