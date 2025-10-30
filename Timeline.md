@@ -3,9 +3,7 @@
 
 ## 🕰️ 2. Timeline.md — Learning & Stewardship Timeline
 
-Place this file at the root of your SDF or documentation module. It tracks constitutional milestones, learning phases, and audit events.
 
-```markdown
 # 🕰️ MJ-Ahmad — Stewardship Timeline
 
 This timeline records every constitutional milestone, learning phase, and audit-worthy action in the SystemOps Documentation Framework (SDF). Each entry is traceable, inheritable, and ethically grounded.

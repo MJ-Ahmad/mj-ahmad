@@ -105,6 +105,58 @@ nav:
       - Overview: support-overview.md
       - FAQ: faq.md
       - Vision: vision.md
+  - LifeFuel:
+      - 🏛️ Overview:
+          - Welcome: LifeFuel/index.md
+          - Roadmap: LifeFuel/roadmap.md
+          - Timeline: LifeFuel/Timeline.md
+          - Keywords: LifeFuel/Learnings/Keywords.md
+      - 🧭 Initiation Layer:
+          - Task Manager: LifeFuel/Initiation/SDF-INIT-01.md
+          - Performance Monitor: LifeFuel/Initiation/SDF-INIT-02.md
+          - Event Viewer: LifeFuel/Initiation/SDF-INIT-03.md
+          - Sysinternals Tools: LifeFuel/Initiation/SDF-INIT-04.md
+          - PowerShell Basics: LifeFuel/Initiation/SDF-INIT-05.md
+      - 📊 Observation Layer:
+          - get-process.ps1: LifeFuel/Observation/SDF-OBS-01.md
+          - get-service.ps1: LifeFuel/Observation/SDF-OBS-02.md
+          - get-eventlog.ps1: LifeFuel/Observation/SDF-OBS-03.md
+          - get-counter.ps1: LifeFuel/Observation/SDF-OBS-04.md
+          - get-osinfo.ps1: LifeFuel/Observation/SDF-OBS-05.md
+      - 📜 Reporting Layer:
+          - Export-Csv: LifeFuel/Reporting/SDF-REP-01.md
+          - Out-File: LifeFuel/Reporting/SDF-REP-02.md
+          - Markdown Template: LifeFuel/Reporting/SDF-REP-03.md
+          - ConvertTo-Json: LifeFuel/Reporting/SDF-REP-04.md
+          - Send-MailMessage: LifeFuel/Reporting/SDF-REP-05.md
+      - 📁 Documentation Layer:
+          - Daily Logs: LifeFuel/Logs/index.md
+          - Performance Reports: LifeFuel/Reports/Performance/index.md
+          - Timeline: LifeFuel/Timeline.md
+          - Keywords: LifeFuel/Learnings/Keywords.md
+      - 🧠 Mastery Layer:
+          - Write Custom Scripts: LifeFuel/Mastery/SDF-MAS-01.md
+          - Create Markdown Guides: LifeFuel/Mastery/SDF-MAS-02.md
+          - Publish on GitHub: LifeFuel/Mastery/SDF-MAS-03.md
+          - Campaign Summary: LifeFuel/Mastery/SDF-MAS-04.md
+      - 🧾 Featured Project:
+          - Quraner Fariwala: LifeFuel/projects/quran-fariwala-40k/index.md
+      - 🧰 System Roles:
+          - Microsoft Copilot: LifeFuel/Roles/Copilot.md
+          - PowerShell: LifeFuel/Roles/PowerShell.md
+          - Python: LifeFuel/Roles/Python.md
+          - GitHub Actions: LifeFuel/Roles/GitHubActions.md
+          - MkDocs: LifeFuel/Roles/MkDocs.md
+          - GitBook: LifeFuel/Roles/GitBook.md
+          - GitHub Pages: LifeFuel/Roles/GitHubPages.md
+          - Markdown: LifeFuel/Roles/Markdown.md
+          - Microsoft Trust Framework: LifeFuel/Roles/TrustFramework.md
+      - ✅ Audit Log:
+          - Audit Entries: LifeFuel/AuditLog/index.md
+      - 📚 Learning Protocol:
+          - Update Rules: LifeFuel/protocol/update.md
+          - Class & Quiz Setup: LifeFuel/protocol/learning-structure.md
+
 markdown_extensions:
   - toc:
       permalink: true

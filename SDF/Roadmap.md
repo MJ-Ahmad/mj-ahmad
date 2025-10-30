@@ -94,7 +94,7 @@ This framework is not just technical — it is ethical, inheritable, and beautif
 
 ## 📁 ফোল্ডার স্ট্রাকচার (File Tree)
 
-```
+```markdown
 SDF/
 ├── README.md
 ├── Roadmap.md
@@ -112,5 +112,6 @@ SDF/
 ├── Scripts/
 │   └── get-process.ps1
 │   └── get-service.ps1
+
 ```
 

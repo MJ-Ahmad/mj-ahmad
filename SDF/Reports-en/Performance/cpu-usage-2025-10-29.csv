@@ -1,0 +1,6 @@
+Process Name,CPU Usage (%),Memory Usage (MB),Status,Observation Time
+chrome.exe,18.2,1200,Running,2025-10-29 10:15 AM
+powershell.exe,12.7,850,Running,2025-10-29 10:15 AM
+explorer.exe,6.5,300,Running,2025-10-29 10:15 AM
+svchost.exe,5.9,250,Running,2025-10-29 10:15 AM
+system,4.3,150,Running,2025-10-29 10:15 AM
